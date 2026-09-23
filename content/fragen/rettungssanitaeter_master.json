@@ -1,0 +1,1262 @@
+[
+  {
+    "n": "1.1",
+    "s": "Berufskunde & Rechtsgrundlagen",
+    "q": "Wie viele Stunden umfasst die Rettungssanitäter-Ausbildung in Deutschland nach dem klassischen Ausbildungsmodell mindestens insgesamt?",
+    "o": [
+      "320 Stunden",
+      "520 Stunden",
+      "720 Stunden",
+      "1600 Stunden"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "1.2",
+    "s": "Berufskunde & Rechtsgrundlagen",
+    "q": "Welche vier Ausbildungsabschnitte gehören zur klassischen 520-Stunden-Struktur der Rettungssanitäter-Ausbildung?",
+    "o": [
+      "Theoretischer Lehrgang, Klinikpraktikum, Lehrrettungswachen-Praktikum, Abschlusslehrgang mit Prüfung",
+      "Nur theoretischer Unterricht und eine Abschlussprüfung",
+      "Nur praktische Einsätze ohne theoretischen Unterricht",
+      "Studium, Klinikpraktikum, Auslandspraktikum, Kolloquium"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "1.3",
+    "s": "Berufskunde & Rechtsgrundlagen",
+    "q": "Auf welcher rechtlichen Ebene wird die Rettungssanitäter-Ausbildung in Deutschland überwiegend geregelt?",
+    "o": [
+      "Durch ein bundeseinheitliches Berufsgesetz",
+      "Durch Landesrecht der einzelnen Bundesländer",
+      "Durch EU-Verordnungen",
+      "Durch private Vereinbarungen der Hilfsorganisationen"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "1.4",
+    "s": "Berufskunde & Rechtsgrundlagen",
+    "q": "Wodurch unterscheidet sich der/die Notfallsanitäter/in grundsätzlich vom/von der Rettungssanitäter/in?",
+    "o": [
+      "Der Notfallsanitäter durchläuft eine mehrjährige, bundesrechtlich geregelte Ausbildung mit deutlich erweiterten Kompetenzen",
+      "Der Notfallsanitäter darf keine Patienten transportieren",
+      "Der Rettungssanitäter hat eine längere Ausbildung als der Notfallsanitäter",
+      "Beide Berufe sind rechtlich identisch geregelt"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "1.5",
+    "s": "Berufskunde & Rechtsgrundlagen",
+    "q": "Welche Aussage zur Qualifikationsstufe 'Rettungshelfer/in' im Vergleich zum/zur Rettungssanitäter/in trifft zu?",
+    "o": [
+      "Der Rettungshelfer hat eine kürzere Ausbildung und ein eingeschränkteres Einsatzspektrum als der Rettungssanitäter",
+      "Rettungshelfer und Rettungssanitäter sind identisch qualifiziert",
+      "Der Rettungshelfer darf eigenständig invasive Maßnahmen wie die Anlage eines venösen Zugangs durchführen",
+      "Der Rettungshelfer ist die höchste nichtärztliche Qualifikationsstufe im Rettungsdienst"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "1.6",
+    "s": "Berufskunde & Rechtsgrundlagen",
+    "q": "In welchen Bereichen des Rettungsdienstes wird der/die Rettungssanitäter/in typischerweise eingesetzt?",
+    "o": [
+      "Ausschließlich in der Leitstelle",
+      "Im Krankentransport sowie als Fahrer/in oder zweites Besatzungsmitglied im Rettungswagen",
+      "Nur im OP-Bereich eines Krankenhauses",
+      "Ausschließlich im Notarztdienst als verantwortliche Person"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "1.7",
+    "s": "Berufskunde & Rechtsgrundlagen",
+    "q": "Was versteht man unter dem 'Klinikpraktikum' im Rahmen der Rettungssanitäter-Ausbildung?",
+    "o": [
+      "Einen Praxiseinsatz in Bereichen wie Notaufnahme, Anästhesie oder Intensivstation zum Erwerb praktischer Fertigkeiten",
+      "Einen rein theoretischen Unterricht an einer Rettungsdienstschule",
+      "Ein Praktikum in einer Apotheke",
+      "Ein verpflichtendes Auslandssemester"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "1.8",
+    "s": "Berufskunde & Rechtsgrundlagen",
+    "q": "Wozu dient das Praktikum auf einer Lehrrettungswache?",
+    "o": [
+      "Ausschließlich zur Verwaltungsarbeit in der Leitstelle",
+      "Zum Sammeln von Einsatzerfahrung unter Anleitung erfahrener Rettungsdienstmitarbeiter im realen Einsatzgeschehen",
+      "Zur theoretischen Prüfungsvorbereitung ohne Patientenkontakt",
+      "Zur Ausbildung als Fahrlehrer"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "1.9",
+    "s": "Berufskunde & Rechtsgrundlagen",
+    "q": "Welche Aussage zur jährlichen Fortbildungspflicht von Rettungssanitätern trifft in der Regel zu?",
+    "o": [
+      "Es besteht keinerlei Fortbildungspflicht nach Ausbildungsabschluss",
+      "Es ist üblicherweise eine bestimmte Mindeststundenzahl an jährlicher Fortbildung vorgeschrieben, um die Qualifikation zu erhalten",
+      "Fortbildungen sind nur alle zehn Jahre notwendig",
+      "Fortbildungspflichten gelten nur für Notärzte"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "2.1",
+    "s": "Anatomie & Physiologie",
+    "q": "Wie viele Herzkammern (Ventrikel) besitzt das menschliche Herz?",
+    "o": [
+      "Eine",
+      "Zwei",
+      "Drei",
+      "Vier"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "2.2",
+    "s": "Anatomie & Physiologie",
+    "q": "Welche Aufgabe hat der große Körperkreislauf?",
+    "o": [
+      "Sauerstoffarmes Blut vom Herzen zur Lunge zu transportieren",
+      "Sauerstoffreiches Blut vom Herzen zu den Organen und Geweben des Körpers zu bringen",
+      "Nur das Gehirn mit Blut zu versorgen",
+      "Ausschließlich Lymphflüssigkeit zu transportieren"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "2.3",
+    "s": "Anatomie & Physiologie",
+    "q": "Welche Struktur trennt Brust- und Bauchhöhle voneinander?",
+    "o": [
+      "Das Zwerchfell",
+      "Das Brustbein",
+      "Die Speiseröhre",
+      "Das Bauchfell"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "2.4",
+    "s": "Anatomie & Physiologie",
+    "q": "Wie viele Rippenpaare hat der Mensch normalerweise?",
+    "o": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "2.5",
+    "s": "Anatomie & Physiologie",
+    "q": "Was ist die Hauptfunktion der roten Blutkörperchen (Erythrozyten)?",
+    "o": [
+      "Abwehr von Krankheitserregern",
+      "Blutgerinnung",
+      "Sauerstofftransport im Blut",
+      "Produktion von Hormonen"
+    ],
+    "c": [
+      2
+    ]
+  },
+  {
+    "n": "2.6",
+    "s": "Anatomie & Physiologie",
+    "q": "Welches Organ produziert Insulin zur Regulation des Blutzuckerspiegels?",
+    "o": [
+      "Die Leber",
+      "Die Bauchspeicheldrüse (Pankreas)",
+      "Die Milz",
+      "Die Niere"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "2.7",
+    "s": "Anatomie & Physiologie",
+    "q": "Welche Aussage zum Blutkreislauf ist korrekt?",
+    "o": [
+      "Der Lungenkreislauf transportiert sauerstoffarmes Blut vom rechten Herzen zur Lunge und sauerstoffreiches Blut zurück zum linken Herzen",
+      "Der Lungenkreislauf ist Teil des Verdauungssystems",
+      "Arterien führen ausschließlich sauerstoffarmes Blut",
+      "Venen transportieren das Blut immer vom Herzen weg"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "2.8",
+    "s": "Anatomie & Physiologie",
+    "q": "Wie viele Wirbel umfasst die Halswirbelsäule (HWS) beim erwachsenen Menschen?",
+    "o": [
+      "5",
+      "7",
+      "9",
+      "12"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "2.9",
+    "s": "Anatomie & Physiologie",
+    "q": "Welche Aufgabe erfüllt der Kehldeckel (Epiglottis)?",
+    "o": [
+      "Er verschließt beim Schluckvorgang den Kehlkopfeingang und verhindert so das Eindringen von Nahrung in die Luftröhre",
+      "Er reguliert die Körpertemperatur",
+      "Er produziert Magensäure",
+      "Er filtert das Blut in der Niere"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "3.1",
+    "s": "Basismaßnahmen & Vitalfunktionen",
+    "q": "Wofür steht der Buchstabe 'A' im ABCDE-Schema der Erstbeurteilung?",
+    "o": [
+      "Atmung",
+      "Airway (Atemwege)",
+      "Allergie",
+      "Anamnese"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "3.2",
+    "s": "Basismaßnahmen & Vitalfunktionen",
+    "q": "Welche Vitalfunktion wird im Schritt 'B' (Breathing) des ABCDE-Schemas primär überprüft?",
+    "o": [
+      "Der Bewusstseinszustand",
+      "Die Atmung (Frequenz, Qualität, Belüftung)",
+      "Der Blutzuckerwert",
+      "Die Körpertemperatur"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "3.3",
+    "s": "Basismaßnahmen & Vitalfunktionen",
+    "q": "Was ist bei der Beurteilung 'C' (Circulation) im ABCDE-Schema zu prüfen?",
+    "o": [
+      "Die Pupillenreaktion",
+      "Der Kreislauf, z. B. Puls, Rekapillarisierungszeit und äußere Blutungen",
+      "Die Blutgruppe",
+      "Der Impfstatus"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "3.4",
+    "s": "Basismaßnahmen & Vitalfunktionen",
+    "q": "Welcher Normwert gilt bei einem gesunden Erwachsenen in Ruhe ungefähr für die Atemfrequenz pro Minute?",
+    "o": [
+      "2–5/min",
+      "12–20/min",
+      "40–50/min",
+      "60–80/min"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "3.5",
+    "s": "Basismaßnahmen & Vitalfunktionen",
+    "q": "Welcher Normalwert gilt näherungsweise für die Herzfrequenz eines gesunden Erwachsenen in Ruhe?",
+    "o": [
+      "20–40/min",
+      "60–100/min",
+      "140–160/min",
+      "180–200/min"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "3.6",
+    "s": "Basismaßnahmen & Vitalfunktionen",
+    "q": "Wie wird die stabile Seitenlage korrekt eingesetzt?",
+    "o": [
+      "Bei bewusstlosen Patienten mit ausreichender Spontanatmung zur Freihaltung der Atemwege",
+      "Bei jedem bewusstlosen Patienten unabhängig von der Atmung, auch bei Kreislaufstillstand",
+      "Nur bei Patienten mit Wirbelsäulenverletzung",
+      "Ausschließlich bei Kindern unter einem Jahr"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "3.7",
+    "s": "Basismaßnahmen & Vitalfunktionen",
+    "q": "Welche Methode eignet sich beim bewusstlosen Patienten am besten, um die Atemwege freizumachen?",
+    "o": [
+      "Kopf nach vorne beugen",
+      "Überstrecken des Kopfes mit Anheben des Kinns (Esmarch-Handgriff/Kopf-Kinn-Handgriff)",
+      "Den Patienten aufsetzen",
+      "Beine hochlagern"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "3.8",
+    "s": "Basismaßnahmen & Vitalfunktionen",
+    "q": "Was bedeutet der Begriff 'Rekapillarisierungszeit'?",
+    "o": [
+      "Die Zeit, bis sich ein durch Druck weiß verfärbtes Nagelbett nach Loslassen wieder rosa färbt, als Hinweis auf die periphere Durchblutung",
+      "Die Zeit bis zum Eintreffen des Rettungswagens",
+      "Die Zeit bis zur vollständigen Wundheilung",
+      "Die Dauer einer Reanimation"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "3.9",
+    "s": "Basismaßnahmen & Vitalfunktionen",
+    "q": "Welche Aussage zur Sauerstoffgabe bei Notfallpatienten trifft im rettungsdienstlichen Kontext grundsätzlich zu?",
+    "o": [
+      "Sauerstoff wird bedarfsgerecht anhand von Symptomatik und Sättigungsmessung dosiert",
+      "Jeder Patient erhält unabhängig vom Zustand die höchstmögliche Sauerstoffkonzentration",
+      "Sauerstoffgabe ist bei Notfallpatienten grundsätzlich kontraindiziert",
+      "Sauerstoff darf nur vom Notarzt appliziert werden"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "3.10",
+    "s": "Basismaßnahmen & Vitalfunktionen",
+    "q": "Was ist der Zweck der Erstbeurteilung nach dem ABCDE-Schema?",
+    "o": [
+      "Lebensbedrohliche Zustände strukturiert und in festgelegter Reihenfolge zu erkennen und sofort zu behandeln",
+      "Ausschließlich die Identität des Patienten festzustellen",
+      "Die Kosten des Einsatzes zu dokumentieren",
+      "Den Einsatzort zu sichern"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "3.11",
+    "s": "Basismaßnahmen & Vitalfunktionen",
+    "q": "Was versteht man unter der 'Bergungsrettung'?",
+    "o": [
+      "Die Standardbeförderung eines Patienten in eine Klinik",
+      "Die Rettung eines Patienten aus akuter Lebensgefahr ohne vorherige vollständige Diagnostik oder Immobilisation",
+      "Die Reinigung des Rettungswagens nach dem Einsatz",
+      "Die Übergabe des Patienten im Krankenhaus"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "4.1",
+    "s": "Reanimation (BLS)",
+    "q": "Welches Verhältnis von Thoraxkompressionen zu Beatmungen wird bei der Basisreanimation Erwachsener durch einen Helfer allgemein empfohlen?",
+    "o": [
+      "15:2",
+      "30:2",
+      "5:1",
+      "10:1"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "4.2",
+    "s": "Reanimation (BLS)",
+    "q": "Wie tief sollte der Brustkorb eines Erwachsenen bei der Herzdruckmassage komprimiert werden?",
+    "o": [
+      "Etwa 1–2 cm",
+      "Etwa 5–6 cm",
+      "Etwa 10 cm",
+      "So tief wie möglich, mindestens 12 cm"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "4.3",
+    "s": "Reanimation (BLS)",
+    "q": "Mit welcher Frequenz sollen Thoraxkompressionen bei der Erwachsenenreanimation durchgeführt werden?",
+    "o": [
+      "40–60/min",
+      "100–120/min",
+      "150–170/min",
+      "200–220/min"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "4.4",
+    "s": "Reanimation (BLS)",
+    "q": "Was ist bei der Herzdruckmassage hinsichtlich der Entlastungsphase zu beachten?",
+    "o": [
+      "Der Brustkorb sollte sich zwischen den Kompressionen vollständig entlasten können",
+      "Auf die Brust soll dauerhaft Druck gehalten werden",
+      "Eine Entlastung ist nicht notwendig",
+      "Die Entlastungsphase sollte länger dauern als die Kompressionsphase"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "4.5",
+    "s": "Reanimation (BLS)",
+    "q": "Wann wird bei einem bewusstlosen Patienten ohne normale Atmung mit der Reanimation begonnen?",
+    "o": [
+      "Erst nach Eintreffen des Notarztes",
+      "Sofort, sobald keine normale Atmung und keine Reaktion festgestellt werden",
+      "Nur wenn ein Defibrillator vorhanden ist",
+      "Erst nach 5 Minuten Beobachtungszeit"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "4.6",
+    "s": "Reanimation (BLS)",
+    "q": "Was ist ein automatisierter externer Defibrillator (AED)?",
+    "o": [
+      "Ein Gerät zur automatischen Blutdruckmessung",
+      "Ein Gerät, das den Herzrhythmus analysiert und bei Bedarf einen Stromstoß zur Beendigung von Kammerflimmern abgibt",
+      "Ein Gerät zur Beatmung ohne Herzdruckmassage",
+      "Ein Gerät zur Blutzuckermessung"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "4.7",
+    "s": "Reanimation (BLS)",
+    "q": "Welche Aussage zur Anwendung eines AED ist korrekt?",
+    "o": [
+      "Die Herzdruckmassage soll während der Rhythmusanalyse und Schockabgabe möglichst kurz unterbrochen werden",
+      "Der AED darf nur von Ärzten bedient werden",
+      "Ein AED analysiert den Rhythmus, ohne dass die Elektroden am Patienten kleben müssen",
+      "Der AED ersetzt vollständig die Herzdruckmassage"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "4.8",
+    "s": "Reanimation (BLS)",
+    "q": "Was ist bei der Reanimation von Säuglingen im Unterschied zu Erwachsenen besonders zu beachten?",
+    "o": [
+      "Es wird grundsätzlich nicht reanimiert",
+      "Kompressionstiefe und -technik sind an die Körpergröße angepasst, z. B. mit zwei Fingern oder umfassender Thoraxtechnik",
+      "Es wird ausschließlich beatmet, keine Kompressionen",
+      "Die Kompressionsfrequenz ist deutlich niedriger als bei Erwachsenen"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "4.9",
+    "s": "Reanimation (BLS)",
+    "q": "Welche Ursachen zählen zu den reversiblen Ursachen eines Kreislaufstillstands (sogenannte HITS/HERZ-Merkschemata), die während der Reanimation bedacht werden sollten?",
+    "o": [
+      "Hypoxie und Hypovolämie",
+      "Erkältung und Kopfschmerzen",
+      "Übergewicht und Bewegungsmangel",
+      "Sonnenbrand und Insektenstich"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "5.1",
+    "s": "Traumatologie",
+    "q": "Wie werden Verbrennungen anhand ihrer Tiefe grundsätzlich klassifiziert?",
+    "o": [
+      "Nach Körpergewicht des Patienten",
+      "In Verbrennungsgrade (I. bis IV. Grad) je nach betroffener Hautschicht",
+      "Nach Farbe der Verbrennung",
+      "Nach Alter des Patienten"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "5.2",
+    "s": "Traumatologie",
+    "q": "Welche Erstmaßnahme ist bei einer frischen, kleinflächigen thermischen Verbrennung im Allgemeinen sinnvoll?",
+    "o": [
+      "Sofortiges Auftragen von Hausmitteln wie Butter",
+      "Kühlung mit handwarmem bis kühlem Wasser über einen begrenzten Zeitraum",
+      "Öffnen von Brandblasen",
+      "Abreiben der verbrannten Haut mit einem Tuch"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "5.3",
+    "s": "Traumatologie",
+    "q": "Wonach richtet sich häufig die grobe Abschätzung der verbrannten Körperoberfläche im Rettungsdienst?",
+    "o": [
+      "Nach der Neuner-Regel",
+      "Nach dem Body-Mass-Index",
+      "Nach der Glasgow Coma Scale",
+      "Nach dem Apgar-Score"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "5.4",
+    "s": "Traumatologie",
+    "q": "Was ist eine offene Fraktur?",
+    "o": [
+      "Ein Knochenbruch, bei dem die Haut über der Bruchstelle verletzt ist und der Knochen mit der Außenwelt in Verbindung steht",
+      "Ein Knochenbruch ohne jegliche Hautverletzung",
+      "Ein Bruch, der nur den Knorpel betrifft",
+      "Ein Bruch, der ausschließlich bei Kindern vorkommt"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "5.5",
+    "s": "Traumatologie",
+    "q": "Wie wird eine vermutete Extremitätenfraktur im Rettungsdienst in der Regel erstversorgt?",
+    "o": [
+      "Durch Reposition (Einrenken) vor Ort durch den Rettungssanitäter",
+      "Durch Ruhigstellung/Schienung in vorgefundener Stellung und Transport zur weiteren Versorgung",
+      "Durch kräftiges Massieren der betroffenen Extremität",
+      "Durch vollständiges Ignorieren, bis der Patient im Krankenhaus ist"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "5.6",
+    "s": "Traumatologie",
+    "q": "Welche Wundart entsteht typischerweise durch stumpfe Gewalteinwirkung mit unregelmäßigen, gequetschten Wundrändern?",
+    "o": [
+      "Schnittwunde",
+      "Platzwunde/Rissquetschwunde",
+      "Schürfwunde",
+      "Stichwunde"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "5.7",
+    "s": "Traumatologie",
+    "q": "Wie wird eine stark blutende Extremitätenwunde im Rettungsdienst zunächst versorgt?",
+    "o": [
+      "Durch direkten Druck auf die Wunde, z. B. mit Druckverband, ggf. Hochlagern der Extremität",
+      "Durch Anlegen einer Blutdruckmanschette ohne weitere Maßnahmen",
+      "Durch sofortiges Waschen der Wunde mit Seife",
+      "Durch Abwarten ohne Intervention"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "5.8",
+    "s": "Traumatologie",
+    "q": "Was ist ein Spannungspneumothorax?",
+    "o": [
+      "Eine harmlose Form der Atemnot ohne Behandlungsdringlichkeit",
+      "Ein lebensbedrohlicher Zustand, bei dem Luft in den Pleuraspalt eindringt und dort einen Ventilmechanismus mit zunehmendem Druck erzeugt",
+      "Eine Erkrankung der Bauchspeicheldrüse",
+      "Eine Form der Wirbelsäulenverletzung"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "5.9",
+    "s": "Traumatologie",
+    "q": "Welche Verdachtsdiagnose erfordert besondere Vorsicht bei der Rettung und Lagerung, um zusätzliche Schäden zu vermeiden?",
+    "o": [
+      "Leichte Prellung des Fingers",
+      "Verdacht auf Wirbelsäulenverletzung",
+      "Blasenbildung durch Reibung",
+      "Leichter Sonnenbrand"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "6.1",
+    "s": "Schock & internistische Notfälle",
+    "q": "Was versteht man allgemein unter einem Schock im medizinischen Sinne?",
+    "o": [
+      "Ein psychischer Ausnahmezustand ohne körperliche Ursache",
+      "Ein akutes Missverhältnis zwischen Sauerstoffbedarf und Sauerstoffangebot des Gewebes infolge unzureichender Durchblutung",
+      "Eine chronische Erkrankung des Herzens",
+      "Eine Form der allergischen Hautreaktion ohne Kreislaufbeteiligung"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "6.2",
+    "s": "Schock & internistische Notfälle",
+    "q": "Welche typischen Symptome können auf einen hypovolämischen Schock hinweisen?",
+    "o": [
+      "Blasse, kaltschweißige Haut, schneller flacher Puls und Unruhe",
+      "Rote, warme Haut und sehr langsamer Puls",
+      "Hohes Fieber ohne weitere Symptome",
+      "Ausschließlich Juckreiz am ganzen Körper"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "6.3",
+    "s": "Schock & internistische Notfälle",
+    "q": "Welche Schockform kann durch eine schwere allergische Reaktion (Anaphylaxie) ausgelöst werden?",
+    "o": [
+      "Kardiogener Schock",
+      "Anaphylaktischer Schock",
+      "Septischer Schock",
+      "Neurogener Schock"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "6.4",
+    "s": "Schock & internistische Notfälle",
+    "q": "Welche Lagerung wird bei einem Patienten mit Schocksymptomatik ohne Anzeichen einer Atemnot oder Kopfverletzung häufig empfohlen?",
+    "o": [
+      "Sitzende Position mit hochgelagertem Oberkörper",
+      "Flachlagerung mit erhöhten Beinen (Schocklage), sofern keine Kontraindikation besteht",
+      "Bauchlage",
+      "Kopftieflage mit angezogenen Knien"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "6.5",
+    "s": "Schock & internistische Notfälle",
+    "q": "Welche Symptome sind typisch für einen Herzinfarkt (akutes Koronarsyndrom)?",
+    "o": [
+      "Plötzlicher, anhaltender Brustschmerz, ggf. Ausstrahlung in Arm oder Kiefer, Atemnot, kalter Schweiß",
+      "Ausschließlich leichter Schwindel ohne weitere Beschwerden",
+      "Nur Hautausschlag ohne Schmerzsymptomatik",
+      "Nur Juckreiz im Bereich der Brust"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "6.6",
+    "s": "Schock & internistische Notfälle",
+    "q": "Welche Erstmaßnahme ist bei Verdacht auf Schlaganfall im Rettungsdienst besonders wichtig?",
+    "o": [
+      "Zeitnahe Erkennung der Symptome (z. B. mittels FAST-Test) und schnellstmöglicher Transport in eine geeignete Klinik",
+      "Abwarten, ob sich die Symptome von selbst bessern",
+      "Verabreichung von viel Flüssigkeit zum Trinken",
+      "Kräftiges Schütteln des Patienten"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "6.7",
+    "s": "Schock & internistische Notfälle",
+    "q": "Was kann eine Unterzuckerung (Hypoglykämie) bei einem Diabetiker unter anderem verursachen?",
+    "o": [
+      "Ausschließlich Fieber",
+      "Bewusstseinstrübung, Zittern, Schwitzen und Verwirrtheit",
+      "Sofortige vollständige Genesung ohne Symptome",
+      "Nur trockene Haut ohne weitere Anzeichen"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "6.8",
+    "s": "Schock & internistische Notfälle",
+    "q": "Welche Aussage zum Krampfanfall (z. B. bei Epilepsie) und der Erstversorgung ist korrekt?",
+    "o": [
+      "Der Patient wird während des Krampfanfalls vor Verletzungen geschützt, ohne ihn festzuhalten oder Gegenstände in den Mund zu stecken",
+      "Dem Patienten wird während des Anfalls ein Gegenstand zwischen die Zähne geschoben",
+      "Der Patient wird während des Anfalls kräftig festgehalten, um Bewegungen zu stoppen",
+      "Ein Krampfanfall erfordert keinerlei Beobachtung"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "6.9",
+    "s": "Schock & internistische Notfälle",
+    "q": "Welche Symptome können auf eine akute Atemnot mit Asthma-Anfall hinweisen?",
+    "o": [
+      "Pfeifende Atemgeräusche, verlängerte Ausatmung und Angst",
+      "Ausschließlich Hautrötung ohne Atembeschwerden",
+      "Nur Übelkeit ohne Atemprobleme",
+      "Plötzlicher Haarausfall"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "7.1",
+    "s": "Hygiene & Infektionsschutz",
+    "q": "Was ist der Hauptzweck der Händedesinfektion im Rettungsdienst?",
+    "o": [
+      "Verminderung der Keimzahl auf der Haut zur Vermeidung von Infektionsübertragungen",
+      "Verbesserung des Hautbildes",
+      "Beschleunigung der Wundheilung beim Patienten",
+      "Ersatz für das Tragen von Handschuhen in jeder Situation"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "7.2",
+    "s": "Hygiene & Infektionsschutz",
+    "q": "Welche persönliche Schutzausrüstung wird beim Kontakt mit Blut oder Körperflüssigkeiten im Rettungsdienst grundsätzlich empfohlen?",
+    "o": [
+      "Nur eine Kopfbedeckung",
+      "Einmalhandschuhe, ggf. ergänzt durch Schutzbrille und -kittel je nach Expositionsrisiko",
+      "Ausschließlich festes Schuhwerk",
+      "Keine besondere Schutzausrüstung notwendig"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "7.3",
+    "s": "Hygiene & Infektionsschutz",
+    "q": "Wie werden gebrauchte, spitze und scharfe Gegenstände (z. B. Kanülen) im Rettungsdienst fachgerecht entsorgt?",
+    "o": [
+      "In den normalen Hausmüll",
+      "In speziellen durchstichsicheren Abwurfbehältern",
+      "Lose in der Einsatztasche",
+      "Im Recyclingpapier"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "7.4",
+    "s": "Hygiene & Infektionsschutz",
+    "q": "Was bezeichnet der Begriff 'nosokomiale Infektion'?",
+    "o": [
+      "Eine Infektion, die sich der Patient vor der Behandlung im häuslichen Umfeld zugezogen hat",
+      "Eine im Zusammenhang mit einer medizinischen Behandlung, z. B. im Krankenhaus, erworbene Infektion",
+      "Eine ausschließlich virale Erkrankung der Atemwege",
+      "Eine angeborene Immunschwäche"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "7.5",
+    "s": "Hygiene & Infektionsschutz",
+    "q": "Welche Maßnahme gehört zur Basishygiene bei jedem Patientenkontakt im Rettungsdienst?",
+    "o": [
+      "Verzicht auf jegliche Schutzmaßnahmen bei äußerlich gesund wirkenden Patienten",
+      "Konsequente Händehygiene vor und nach jedem Patientenkontakt",
+      "Wiederverwendung von Einmalhandschuhen bei mehreren Patienten",
+      "Verzicht auf Flächendesinfektion nach dem Einsatz"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "7.6",
+    "s": "Hygiene & Infektionsschutz",
+    "q": "Was versteht man unter dem Übertragungsweg 'Tröpfcheninfektion'?",
+    "o": [
+      "Übertragung von Erregern über kontaminiertes Trinkwasser",
+      "Übertragung von Erregern über feine Flüssigkeitströpfchen beim Husten, Niesen oder Sprechen",
+      "Übertragung ausschließlich durch direkten Hautkontakt",
+      "Übertragung durch Insektenstiche"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "7.7",
+    "s": "Hygiene & Infektionsschutz",
+    "q": "Wie wird kontaminiertes Einwegmaterial (z. B. gebrauchte Verbandmittel) im Rettungsdienst grundsätzlich behandelt?",
+    "o": [
+      "Als normaler Restmüll ohne besondere Kennzeichnung",
+      "Als potenziell infektiöser Abfall nach den geltenden Entsorgungsvorschriften",
+      "Es wird zur Wiederverwendung gereinigt",
+      "Es wird dem Patienten zur Aufbewahrung mitgegeben"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "7.8",
+    "s": "Hygiene & Infektionsschutz",
+    "q": "Warum ist die routinemäßige Desinfektion des Rettungswageninnenraums nach jedem Einsatz wichtig?",
+    "o": [
+      "Um Übertragungswege für Krankheitserreger zwischen Patienten und Personal zu unterbrechen",
+      "Um das Fahrzeug optisch ansprechender zu gestalten",
+      "Ausschließlich aus versicherungstechnischen Gründen",
+      "Weil es gesetzlich nur einmal pro Woche vorgeschrieben ist"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "8.1",
+    "s": "Rechtskunde",
+    "q": "Was regelt die ärztliche bzw. berufliche Schweigepflicht für Rettungssanitäter grundsätzlich?",
+    "o": [
+      "Dass patientenbezogene Informationen nur bei ausdrücklicher rechtlicher Grundlage oder Einwilligung weitergegeben werden dürfen",
+      "Dass grundsätzlich alle Einsatzdetails öffentlich kommuniziert werden dürfen",
+      "Dass die Schweigepflicht nur für Ärzte, nicht aber für Rettungsdienstpersonal gilt",
+      "Dass Angehörige immer uneingeschränkt informiert werden müssen"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "8.2",
+    "s": "Rechtskunde",
+    "q": "Was versteht man unter dem 'rechtfertigenden Notstand' (§ 34 StGB) im Zusammenhang mit rettungsdienstlichem Handeln?",
+    "o": [
+      "Eine Regelung, die unter bestimmten Voraussetzungen ein an sich strafbares Handeln zur Abwendung einer Gefahr für ein höherwertiges Rechtsgut rechtfertigen kann",
+      "Ein Gesetz, das Rettungsdienstpersonal von jeglicher Haftung freistellt",
+      "Eine Regelung ausschließlich für Feuerwehreinsätze",
+      "Ein Verbot, ohne ärztliche Anweisung zu handeln"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "8.3",
+    "s": "Rechtskunde",
+    "q": "Was ist grundsätzlich Voraussetzung für eine rechtmäßige medizinische Maßnahme am einwilligungsfähigen Patienten?",
+    "o": [
+      "Die Einwilligung des Patienten nach entsprechender Aufklärung",
+      "Ausschließlich die Anwesenheit der Polizei",
+      "Eine schriftliche Genehmigung der Krankenkasse vor Ort",
+      "Keine Zustimmung ist erforderlich"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "8.4",
+    "s": "Rechtskunde",
+    "q": "Wie verhält es sich rechtlich, wenn ein einwilligungsfähiger, bei Bewusstsein befindlicher Patient eine notwendige Behandlung ausdrücklich ablehnt?",
+    "o": [
+      "Die Ablehnung ist grundsätzlich zu respektieren, sofern keine Einwilligungsunfähigkeit vorliegt",
+      "Die Behandlung wird unabhängig vom Patientenwillen immer durchgeführt",
+      "Der Patient muss unabhängig von seinem Willen zwangsweise transportiert werden",
+      "Die Entscheidung liegt allein beim Rettungssanitäter ohne Berücksichtigung des Patientenwillens"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "8.5",
+    "s": "Rechtskunde",
+    "q": "Was ist bei der Weitergabe von Betäubungsmitteln (BtM) im Rettungsdienst rechtlich zu beachten?",
+    "o": [
+      "Betäubungsmittel unterliegen besonderen Dokumentations- und Aufbewahrungspflichten nach dem Betäubungsmittelgesetz",
+      "Betäubungsmittel dürfen ohne jede Dokumentation verwendet werden",
+      "Das Betäubungsmittelgesetz gilt nur für Apotheken, nicht für den Rettungsdienst",
+      "Rettungssanitäter dürfen eigenständig über die Verabreichung von Betäubungsmitteln entscheiden"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "8.6",
+    "s": "Rechtskunde",
+    "q": "Welche Pflicht besteht grundsätzlich für jeden Ersthelfer und damit auch für Rettungsdienstpersonal in Deutschland?",
+    "o": [
+      "Die unterlassene Hilfeleistung ist straffrei",
+      "Es besteht grundsätzlich eine allgemeine Hilfeleistungspflicht, deren Unterlassung strafbar sein kann",
+      "Hilfeleistung ist nur bei eigener Gefahrlosigkeit für den Helfer irgendeiner Art verpflichtend vorgeschrieben, unabhängig von Zumutbarkeit",
+      "Nur Ärzte unterliegen einer Hilfeleistungspflicht"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "8.7",
+    "s": "Rechtskunde",
+    "q": "Wer trägt im Rettungsdienst während des Transports grundsätzlich die medizinische Verantwortung, solange kein Arzt anwesend ist?",
+    "o": [
+      "Der Patient selbst in jedem Fall",
+      "Das eingesetzte Rettungsdienstpersonal im Rahmen seiner jeweiligen Qualifikation und der geltenden Vorgaben",
+      "Ausschließlich die Leitstelle",
+      "Niemand, da keine Verantwortung besteht"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "8.8",
+    "s": "Rechtskunde",
+    "q": "Was bedeutet Dokumentationspflicht im Rettungsdienst?",
+    "o": [
+      "Einsatzrelevante Maßnahmen, Befunde und Verläufe müssen nachvollziehbar schriftlich festgehalten werden",
+      "Eine Dokumentation ist rechtlich nicht erforderlich",
+      "Nur besonders spektakuläre Einsätze müssen dokumentiert werden",
+      "Die Dokumentation obliegt ausschließlich dem Krankenhauspersonal"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "8.9",
+    "s": "Rechtskunde",
+    "q": "Welche Konsequenz kann eine Maßnahme haben, die außerhalb der Kompetenzen eines Rettungssanitäters ohne Rechtfertigung durchgeführt wird?",
+    "o": [
+      "Keinerlei rechtliche Konsequenz",
+      "Mögliche zivil- und/oder strafrechtliche Konsequenzen für das handelnde Personal",
+      "Nur eine geringfügige Verwaltungsgebühr",
+      "Automatische Beförderung zum Notfallsanitäter"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "9.1",
+    "s": "Einsatztaktik & Fahrzeug-/Gerätekunde",
+    "q": "Welche Fahrzeugtypen werden im deutschen Rettungsdienst typischerweise unterschieden?",
+    "o": [
+      "Nur Rettungswagen (RTW)",
+      "Unter anderem Krankentransportwagen (KTW), Rettungswagen (RTW) und Notarzteinsatzfahrzeug (NEF)",
+      "Nur Löschfahrzeuge der Feuerwehr",
+      "Ausschließlich Hubschrauber"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "9.2",
+    "s": "Einsatztaktik & Fahrzeug-/Gerätekunde",
+    "q": "Wofür wird ein Krankentransportwagen (KTW) hauptsächlich eingesetzt?",
+    "o": [
+      "Für den qualifizierten Transport von nicht akut lebensbedrohlich erkrankten oder verletzten Personen",
+      "Ausschließlich für Notfalleinsätze mit Reanimationspflicht",
+      "Für den Transport von Gefahrgut",
+      "Nur für Verwaltungsfahrten"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "9.3",
+    "s": "Einsatztaktik & Fahrzeug-/Gerätekunde",
+    "q": "Was ist die primäre Aufgabe eines Rettungswagens (RTW) im Vergleich zum KTW?",
+    "o": [
+      "Der Transport von Aktenmaterial",
+      "Die notfallmedizinische Versorgung und der Transport von Notfallpatienten",
+      "Ausschließlich Verlegungsfahrten zwischen Kliniken ohne medizinische Versorgung",
+      "Der reine Werkstatttransport von Material"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "9.4",
+    "s": "Einsatztaktik & Fahrzeug-/Gerätekunde",
+    "q": "Welche Ausrüstung gehört typischerweise zur Standardausstattung eines Rettungswagens?",
+    "o": [
+      "Notfallrucksack, Sauerstoffgerät, Beatmungsbeutel, Defibrillator und Trage",
+      "Ausschließlich ein Verbandkasten für den Privatgebrauch",
+      "Nur Feuerlöschgeräte",
+      "Ausschließlich Baustellenwerkzeug"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "9.5",
+    "s": "Einsatztaktik & Fahrzeug-/Gerätekunde",
+    "q": "Was versteht man unter der 'Rettungskette' im Sinne der Einsatzorganisation?",
+    "o": [
+      "Die technische Verankerung der Trage im Fahrzeug",
+      "Die aufeinander abgestimmte Abfolge von Notruf, Erste Hilfe, qualifizierter Hilfe und Krankenhausversorgung",
+      "Eine Kette zur Fahrzeugsicherung am Berg",
+      "Ein Ausrüstungsgegenstand zur Wirbelsäulenimmobilisation"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "9.6",
+    "s": "Einsatztaktik & Fahrzeug-/Gerätekunde",
+    "q": "Was ist beim Fahren mit Sonder- und Wegerechten (Blaulicht und Martinshorn) zu beachten?",
+    "o": [
+      "Es entfällt jegliche Sorgfaltspflicht im Straßenverkehr",
+      "Trotz Sonderrechten besteht weiterhin eine erhöhte Sorgfaltspflicht, um andere Verkehrsteilnehmer nicht zu gefährden",
+      "Sonderrechte gelten nur bei Tageslicht",
+      "Sonderrechte dürfen nur von Notärzten genutzt werden"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "9.7",
+    "s": "Einsatztaktik & Fahrzeug-/Gerätekunde",
+    "q": "Wozu dient eine Vakuummatratze im Rettungsdienst?",
+    "o": [
+      "Zur Kühlung von Verbrennungen",
+      "Zur stabilen Immobilisation und Lagerung von Patienten, z. B. bei Verdacht auf Wirbelsäulenverletzung",
+      "Ausschließlich als Sitzunterlage für den Fahrer",
+      "Zur Desinfektion von Instrumenten"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "9.8",
+    "s": "Einsatztaktik & Fahrzeug-/Gerätekunde",
+    "q": "Was ist bei der Absicherung einer Einsatzstelle im Straßenverkehr vorrangig zu beachten?",
+    "o": [
+      "Eigenschutz geht vor Fremdschutz, danach Absicherung der Unfallstelle",
+      "Die Absicherung ist unwichtig, solange der Patient schnell versorgt wird",
+      "Nur die Polizei darf die Stelle absichern",
+      "Warnwesten sind bei Tageslicht nicht erforderlich"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "9.9",
+    "s": "Einsatztaktik & Fahrzeug-/Gerätekunde",
+    "q": "Welche Funktion hat das Notarzteinsatzfahrzeug (NEF) im Rettungsdienstsystem?",
+    "o": [
+      "Es transportiert den Notarzt schnell zum Einsatzort, ohne selbst Patienten zu transportieren",
+      "Es dient ausschließlich dem Materialtransport zwischen Kliniken",
+      "Es ersetzt den Rettungswagen vollständig",
+      "Es wird nur für Verwaltungsaufgaben genutzt"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "10.1",
+    "s": "Kommunikation & Psychologie",
+    "q": "Warum ist eine ruhige, klare Kommunikation mit dem Patienten im Rettungsdienst wichtig?",
+    "o": [
+      "Sie hat keinen Einfluss auf das Verhalten des Patienten",
+      "Sie kann Angst und Stress reduzieren und die Kooperationsbereitschaft fördern",
+      "Sie ist ausschließlich für die Dokumentation relevant",
+      "Sie ersetzt jede medizinische Maßnahme"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "10.2",
+    "s": "Kommunikation & Psychologie",
+    "q": "Was ist beim Umgang mit akut traumatisierten oder in Krisensituationen befindlichen Patienten und Angehörigen wichtig?",
+    "o": [
+      "Empathisches, wertschätzendes Auftreten und aktives Zuhören",
+      "Möglichst wenig Kontakt und Informationsweitergabe",
+      "Ausschließlich sachliche, gefühllose Kommunikation",
+      "Konfrontatives Verhalten zur schnelleren Klärung der Situation"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "10.3",
+    "s": "Kommunikation & Psychologie",
+    "q": "Was versteht man unter 'aktivem Zuhören' in der Gesprächsführung?",
+    "o": [
+      "Dem Gegenüber ungeteilte Aufmerksamkeit zu schenken und durch Rückfragen und Zusammenfassungen Verständnis zu signalisieren",
+      "Während des Gesprächs andere Aufgaben zu erledigen",
+      "Ausschließlich zu nicken, ohne zu reagieren",
+      "Das Gespräch möglichst schnell zu beenden"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "10.4",
+    "s": "Kommunikation & Psychologie",
+    "q": "Wie sollte mit Kindern als Patienten im Rettungsdienst idealerweise kommuniziert werden?",
+    "o": [
+      "Altersgerecht, ruhig und unter Einbeziehung von Bezugspersonen, soweit möglich",
+      "Ausschließlich über die Eltern, ohne das Kind direkt anzusprechen",
+      "Mit Fachbegriffen wie bei Erwachsenen",
+      "Ohne jegliche Erklärung der Maßnahmen"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "10.5",
+    "s": "Kommunikation & Psychologie",
+    "q": "Was kann eine akute Belastungsreaktion bei einem Notfallpatienten unter anderem hervorrufen?",
+    "o": [
+      "Zustände wie Unruhe, Zittern oder scheinbare Teilnahmslosigkeit als Reaktion auf das belastende Ereignis",
+      "Ausschließlich körperliche Symptome ohne psychische Komponente",
+      "Sofortige vollständige Beruhigung ohne jegliche Reaktion",
+      "Dauerhafte Immunität gegen weiteren Stress"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "10.6",
+    "s": "Kommunikation & Psychologie",
+    "q": "Was bedeutet der Begriff 'Psychische Erste Hilfe' im Rettungsdienst?",
+    "o": [
+      "Erste unterstützende Maßnahmen zur Stabilisierung von Betroffenen in einer akuten psychischen Ausnahmesituation",
+      "Eine langfristige psychotherapeutische Behandlung vor Ort",
+      "Die Verabreichung von Beruhigungsmitteln durch den Rettungssanitäter ohne ärztliche Anordnung",
+      "Ein rein verwaltungstechnischer Vorgang"
+    ],
+    "c": [
+      0
+    ]
+  },
+  {
+    "n": "10.7",
+    "s": "Kommunikation & Psychologie",
+    "q": "Welche Bedeutung hat die non-verbale Kommunikation (z. B. Körperhaltung, Mimik) im Patientenkontakt?",
+    "o": [
+      "Sie ist bedeutungslos, solange die verbale Aussage korrekt ist",
+      "Sie beeinflusst maßgeblich, wie Sicherheit und Empathie beim Patienten wahrgenommen werden",
+      "Sie spielt nur bei bewusstlosen Patienten eine Rolle",
+      "Sie wird ausschließlich in der Ausbildung zum Notarzt behandelt"
+    ],
+    "c": [
+      1
+    ]
+  },
+  {
+    "n": "10.8",
+    "s": "Kommunikation & Psychologie",
+    "q": "Wie sollte mit eigener psychischer Belastung nach schweren Einsätzen (z. B. Tod eines Patienten) professionell umgegangen werden?",
+    "o": [
+      "Belastung sollte grundsätzlich verdrängt und nie thematisiert werden",
+      "Angebote wie kollegiale Nachbesprechung oder Einsatznachsorgeteams (z. B. PSNV) können unterstützend genutzt werden",
+      "Solche Situationen betreffen Rettungsdienstpersonal grundsätzlich nicht",
+      "Es ist ausschließlich Aufgabe des Notarztes, damit umzugehen"
+    ],
+    "c": [
+      1
+    ]
+  }
+]
