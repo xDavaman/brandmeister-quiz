@@ -9,9 +9,13 @@ content/
 ├── README.md              ← diese Datei
 ├── notizen.md              ← offene Ideen, ToDos, Themen für später (Monetarisierung, weitere Berufe, ...)
 ├── fragen/
-│   └── brandmeister_master.json   ← gepflegter Master-Fragenbestand (aktuell 295 Fragen)
+│   ├── brandmeister_master.json         ← gepflegter Master-Fragenbestand Brandmeister (295 Fragen, live in Firestore)
+│   ├── rettungssanitaeter_master.json   ← vorbereiteter Fragenkatalog Rettungssanitäter (90 Fragen, noch nicht importiert)
+│   └── notfallsanitaeter_master.json    ← vorbereiteter Fragenkatalog Notfallsanitäter (122 Fragen, noch nicht importiert)
 └── quellen/
-    └── README.md           ← Quellenverzeichnis + Ablage für Rohmaterial (PDFs, Auszüge, Links)
+    ├── README.md                        ← Quellenverzeichnis + Ablage für Rohmaterial (PDFs, Auszüge, Links)
+    ├── rettungssanitaeter_quellen.md     ← Quellen für den Rettungssanitäter-Fragenkatalog
+    └── notfallsanitaeter_quellen.md      ← Quellen für den Notfallsanitäter-Fragenkatalog
 ```
 
 ## Wie das mit der App zusammenhängt
@@ -24,6 +28,11 @@ Die App selbst lädt ihre Fragen **live aus Firestore** (`packs/brandmeister/que
 - **Basis für größere Ergänzungen**: Wer viele neue Fragen auf einmal einpflegen will, kann sie hier vorbereiten (gleiches Format wie unten beschrieben), bevor sie einzeln über den Admin-Bereich übernommen oder in einem Rutsch nach Firestore migriert werden.
 
 Für einzelne, schnelle Änderungen (eine Frage hinzufügen/korrigieren/löschen) ist der Admin-Bereich in der App selbst der direkte Weg — dort landen Änderungen sofort live in Firestore, ohne diesen Ordner anzufassen.
+
+Für einen kompletten neuen Beruf (wie `rettungssanitaeter_master.json` oder `notfallsanitaeter_master.json`) gibt es im Admin-Bereich unter „Berufe/Packs verwalten" einen Weg, ganz ohne Redeploy:
+1. „+ Neues Pack anlegen" → Name eingeben (z. B. „Rettungssanitäter"), damit wird automatisch die passende Pack-ID erzeugt.
+2. Im Bereich „Fragen verwalten" (zeigt jetzt den neu angelegten Pack) → „Fragen aus JSON importieren" → die passende Datei aus diesem Ordner auswählen.
+3. Fertig — die Fragen liegen sofort live in Firestore für diesen Pack, komplett getrennt vom Brandmeister-Bestand, den Lernende sehen.
 
 ## Frage-Format
 
