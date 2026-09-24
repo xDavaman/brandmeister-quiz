@@ -222,10 +222,11 @@
   .install-dismiss{ flex:none; width:26px; height:26px; border-radius:8px; border:none; background:transparent;
     color:var(--ink-soft); font-size:16px; line-height:1; cursor:pointer; padding:0; }
 
-  .install-modal-backdrop{ position:fixed; inset:0; background:rgba(0,0,0,.45); display:flex; align-items:flex-end;
+  .install-modal-backdrop{ position:fixed; inset:0; background:rgba(10,9,8,.55); backdrop-filter:blur(2px); display:flex; align-items:flex-end;
     justify-content:center; z-index:50; }
-  .install-modal{ background:var(--surface); border-radius:16px 16px 0 0; padding:20px 20px 24px; max-width:560px; width:100%;
-    box-shadow:0 -6px 24px rgba(0,0,0,.2); }
+  .install-modal{ background:var(--surface); border:1px solid var(--line);
+    border-radius:calc(var(--radius) + 4px) calc(var(--radius) + 4px) 0 0; padding:20px 20px 24px; max-width:560px; width:100%;
+    box-shadow:var(--shadow); }
   .install-modal h3{ margin:0 0 10px; font-size:16px; }
   .install-modal ol{ margin:0 0 14px; padding-left:20px; font-size:13.5px; color:var(--ink); line-height:1.6; }
   .install-modal .btn{ width:100%; }
@@ -410,16 +411,18 @@
     border:none; cursor:pointer; padding:6px; width:100%; }
 
   /* ---- modal / admin panel ---- */
-  .modal-backdrop{ position:fixed; inset:0; background:rgba(15,18,24,.5); z-index:100;
+  .modal-backdrop{ position:fixed; inset:0; background:rgba(10,9,8,.55); backdrop-filter:blur(2px); z-index:100;
     display:flex; align-items:flex-end; justify-content:center; padding:0; }
   @media (min-width:560px){ .modal-backdrop{ align-items:center; padding:20px; } }
-  .modal-card{ background:var(--surface); width:100%; max-width:520px; max-height:92vh; overflow-y:auto;
-    border-radius:18px 18px 0 0; box-shadow:var(--shadow); padding:18px 18px calc(18px + env(safe-area-inset-bottom,0px)); }
-  @media (min-width:560px){ .modal-card{ border-radius:18px; } }
+  .modal-card{ background:var(--surface); border:1px solid var(--line); width:100%; max-width:520px; max-height:92vh; overflow-y:auto;
+    border-radius:calc(var(--radius) + 4px) calc(var(--radius) + 4px) 0 0; box-shadow:var(--shadow);
+    padding:20px 20px calc(20px + env(safe-area-inset-bottom,0px)); }
+  @media (min-width:560px){ .modal-card{ border-radius:var(--radius); } }
   .modal-head{ display:flex; align-items:center; justify-content:space-between; gap:10px; margin-bottom:14px; }
-  .modal-head h2{ font-size:17px; margin:0; }
-  .modal-close{ flex:none; width:30px; height:30px; border-radius:9px; border:none; background:var(--surface-2);
+  .modal-head h2{ font-size:17px; margin:0; font-family:'Oswald',sans-serif; }
+  .modal-close{ flex:none; width:34px; height:34px; border-radius:10px; border:1px solid var(--line); background:var(--surface);
     color:var(--ink-soft); display:flex; align-items:center; justify-content:center; cursor:pointer; }
+  .modal-close:hover{ border-color:var(--accent); color:var(--accent); }
   .modal-close svg{ width:15px; height:15px; }
 
   .pin-input{ width:100%; font-family:'Oswald',sans-serif; font-size:26px; letter-spacing:.4em; text-align:center;
