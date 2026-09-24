@@ -1,0 +1,3690 @@
+[
+ {
+  "n": "3.30",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Wie viele Lungenbläschen (Alveolen) besitzt der Mensch näherungsweise und welche gemeinsame Austauschfläche bilden sie?",
+  "o": [
+   "Ca. 300 Millionen Alveolen mit einer Gesamtoberfläche von rund 100 m²",
+   "Ca. 30 Millionen Alveolen mit einer Gesamtoberfläche von rund 10 m²",
+   "Ca. 3 Millionen Alveolen mit einer Gesamtoberfläche von rund 1 m²",
+   "Ca. 300.000 Alveolen mit einer Gesamtoberfläche von rund 50 m²"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.31",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Welcher Faktor bestimmt in erster Linie die unwillkürliche Steuerung der Atemfrequenz durch das Atemzentrum im Stammhirn?",
+  "o": [
+   "Der Kohlendioxidgehalt (CO2) im Blut",
+   "Der Sauerstoffgehalt (O2) im Blut ausschließlich",
+   "Die Körpertemperatur",
+   "Der Blutzuckerspiegel"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.32",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Welches Volumen wird bei einem ruhigen Atemzug ungefähr aufgenommen, und welcher Anteil davon verbleibt im anatomischen Totraum?",
+  "o": [
+   "Ca. 500 ml Atemzugvolumen, davon ca. 150 ml im Totraum",
+   "Ca. 1000 ml Atemzugvolumen, davon ca. 500 ml im Totraum",
+   "Ca. 250 ml Atemzugvolumen, davon ca. 50 ml im Totraum",
+   "Ca. 4500 ml Atemzugvolumen, davon ca. 1500 ml im Totraum"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.33",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Wie wird die maximale Luftmenge bezeichnet, die nach maximaler Einatmung wieder ausgeatmet werden kann?",
+  "o": [
+   "Vitalkapazität",
+   "Atemzugvolumen",
+   "Residualvolumen",
+   "Atemminutenvolumen"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.34",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Welchen ungefähren Sauerstoffanteil enthält die vom Menschen ausgeatmete Luft noch – ein Grund, weshalb eine Beatmung mit Ausatemluft wirksam sein kann?",
+  "o": [
+   "Ca. 17 Vol.-%",
+   "Ca. 21 Vol.-%",
+   "Ca. 10 Vol.-%",
+   "Ca. 4 Vol.-%"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.35",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Welches Atemminutenvolumen (AMV) ist laut Lehrgangsskript bei mittlerer Arbeit (z. B. Laufen) ungefähr zu erwarten?",
+  "o": [
+   "Ca. 34 l/min",
+   "Ca. 9 l/min",
+   "Ca. 80 l/min",
+   "Ca. 6 l/min"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.36",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Warum ist Kohlenmonoxid (CO) für den Menschen bereits in geringer Konzentration so gefährlich?",
+  "o": [
+   "CO bindet sich 200- bis 300-mal stärker an Hämoglobin als Sauerstoff und blockiert dadurch den Sauerstofftransport im Blut",
+   "CO zerstört die Lungenbläschen durch chemische Verätzung",
+   "CO verdrängt ausschließlich den Sauerstoff aus der Raumluft durch sein hohes spezifisches Gewicht",
+   "CO wirkt nur über die Haut und schädigt vorrangig die Leber"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.37",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Welche Aussage zur Blausäure (HCN, Cyanwasserstoff) als Atemgift trifft zu?",
+  "o": [
+   "Sie verhindert die innere (zelluläre) Sauerstoffverwertung und kann bereits ab wenigen Milligramm tödlich wirken",
+   "Sie ist ausschließlich über Hautkontakt aufnehmbar und dabei geruchlos",
+   "Sie wirkt nur reizend auf die Schleimhäute, ist aber selbst ungiftig",
+   "Sie ist schwerer als Luft und lagert sich ausschließlich in Bodennähe an"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.38",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Was macht Schwefelwasserstoff (H2S) im Einsatz besonders tückisch?",
+  "o": [
+   "Ab einer Konzentration von etwa 200 ppm betäubt er den Geruchssinn, sodass der charakteristische Geruch nach faulen Eiern nicht mehr wahrgenommen wird",
+   "Er ist in jeder Konzentration vollständig geruchlos und farblos",
+   "Er wirkt ausschließlich erstickend durch Sauerstoffverdrängung, ohne Zellgifte freizusetzen",
+   "Er ist deutlich leichter als Luft und steigt daher sofort in obere Raumbereiche"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.39",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "In welche drei Gruppen werden Atemgifte nach ihrem Schädigungs-/Wirkungsmechanismus eingeteilt?",
+  "o": [
+   "Erstickend wirkende Atemgifte, reiz-/ätzend wirkende Atemgifte, sowie Atemgifte mit Wirkung auf Blut, Nerven und Zellen",
+   "Brennbare, nicht brennbare und explosive Atemgifte",
+   "Leichte, mittlere und schwere Atemgifte nach Molekularmasse",
+   "Sichtbare und unsichtbare Atemgifte"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.40",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Was gibt der AEGL-Wert (Acute Exposure Guideline Level) an, der für die Feuerwehr als AEGL-2/4h relevant ist?",
+  "o": [
+   "Stoffspezifische Konzentrationswerte, gestaffelt nach Expositionsdauer, ab denen mit schwerwiegender gesundheitlicher Beeinträchtigung zu rechnen ist",
+   "Den Grenzwert für eine 8-stündige tägliche Arbeitsplatzbelastung über ein gesamtes Berufsleben",
+   "Den maximal zulässigen Fülldruck einer Atemluftflasche",
+   "Die maximale Einsatzzeit eines Pressluftatmers in Minuten"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.41",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Anhand welches Vergleichswerts lässt sich einsatztaktisch schnell abschätzen, ob ein Atemgift leichter oder schwerer als Luft ist?",
+  "o": [
+   "Die Molekularmasse des Gases wird mit dem spezifischen Gewicht von Luft (ca. 29) verglichen",
+   "Der Siedepunkt des Gases wird mit 0 °C verglichen",
+   "Die Farbe des Gases wird mit der Farbe von Sauerstoff verglichen",
+   "Der pH-Wert des Gases wird mit dem pH-Wert von Wasser verglichen"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.42",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Welche Voraussetzung muss zwingend erfüllt sein, damit ein Kombinationsfilter (Filtergerät) im Einsatz genutzt werden darf?",
+  "o": [
+   "Die Sauerstoffkonzentration in der Umgebungsluft muss mindestens 17 Vol.-% betragen und Art sowie Eigenschaft der Atemgifte müssen bekannt sein",
+   "Die Sauerstoffkonzentration muss mindestens 10 Vol.-% betragen",
+   "Filtergeräte dürfen unabhängig von der Sauerstoffkonzentration überall eingesetzt werden",
+   "Es dürfen ausschließlich unbekannte Atemgifte vorliegen, da der Filter jede Substanz zurückhält"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.43",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Welche höchstzulässige Schadstoffkonzentration darf ein Gasfilter der Filterklasse 2 laut Tabelle maximal zurückhalten?",
+  "o": [
+   "0,5 Vol.-% (5000 ppm)",
+   "0,1 Vol.-% (1000 ppm)",
+   "1,0 Vol.-% (10000 ppm)",
+   "5,0 Vol.-% (50000 ppm)"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.44",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Welches Rückhaltevermögen hat ein Partikelfilter der Klasse P3 in Kombination mit einer Vollmaske gegenüber dem jeweiligen Grenzwert?",
+  "o": [
+   "Das 400-fache des Grenzwertes",
+   "Das 30-fache des Grenzwertes",
+   "Das 10-fache des Grenzwertes",
+   "Das 4-fache des Grenzwertes"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.45",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Welche Funktion erfüllt die Innenmaske innerhalb einer Vollmaske?",
+  "o": [
+   "Sie verringert das Totraumvolumen (CO2-Ansammlung) zwischen Maskenkörper und Gesicht",
+   "Sie dient ausschließlich der Befestigung der Sprechmembran",
+   "Sie verhindert das Beschlagen der Sichtscheibe durch aktive Beheizung",
+   "Sie reduziert den Fülldruck der angeschlossenen Atemluftflasche"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.46",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Wodurch unterscheidet sich eine Vollmaske für ein Überdrucksystem technisch von einer Normaldruckmaske?",
+  "o": [
+   "Durch ein federbelastetes Ausatemventil, das einen ständigen leichten Überdruck von ca. 4–6 mbar in der Maske aufbaut",
+   "Durch den vollständigen Verzicht auf ein Einatemventil",
+   "Durch eine zusätzliche zweite Sichtscheibe",
+   "Durch einen deutlich größeren Anschlussdurchmesser für die Mitteldruckleitung"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.47",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Wie funktioniert ein Regenerationsgerät (Kreislauf-Atemschutzgerät) grundsätzlich?",
+  "o": [
+   "Die ausgeatmete Luft wird im geschlossenen System von CO2 befreit, mit Sauerstoff angereichert und dem Träger erneut als Einatemluft zugeführt",
+   "Es filtert ausschließlich Partikel und Gase aus der Umgebungsluft wie ein Kombinationsfilter",
+   "Es leitet komprimierte Druckluft aus einer stationären externen Flasche über einen langen Schlauch zum Träger",
+   "Es arbeitet vollständig drucklos und benötigt daher keinerlei Wartung des Atemanschlusses"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.48",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Welchen Mindestdruck muss eine 300-bar-Atemluftflasche bei der Kurzprüfung noch aufweisen, damit das Gerät als einsatzbereit gilt?",
+  "o": [
+   "Mindestens 270 bar",
+   "Mindestens 200 bar",
+   "Mindestens 150 bar",
+   "Mindestens 55 bar"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.49",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Wann gilt ein Pressluftatmer bei der Kurzprüfung hinsichtlich der Dichtheit als in Ordnung?",
+  "o": [
+   "Wenn der Druck bei geschlossenem Flaschenventil innerhalb einer Minute um nicht mehr als 10 bar abfällt",
+   "Wenn der Druck innerhalb von 5 Minuten um nicht mehr als 55 bar abfällt",
+   "Wenn beim Spülen kein Warnton zu hören ist",
+   "Wenn sich der Manometerzeiger beim Öffnen des Flaschenventils nicht bewegt"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.50",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Wer darf den Lungenautomaten an den Atemanschluss anschließen, und wie ist dabei vorzugehen?",
+  "o": [
+   "Eine zweite Person, ohne Handschuhe, durch Aufschrauben am Handrad – der Geräteträger darf den Lungenautomaten niemals selbst anschließen",
+   "Der Geräteträger selbst, um Zeitverlust zu vermeiden",
+   "Eine beliebige Person mit Handschuhen, durch Einrasten ohne Verschraubung",
+   "Ausschließlich der Atemschutzgerätewart in der Atemschutzwerkstatt"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.51",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Welche Angaben soll die Registrierung im Rahmen der Atemschutzüberwachung mindestens enthalten?",
+  "o": [
+   "Namen der Einsatzkräfte, Uhrzeit des Anschließens der Luftversorgung, Uhrzeit bei 1/3 und 2/3 der Einsatzzeit, Erreichen des Einsatzziels und Beginn des Rückzugs",
+   "Nur die Namen der Einsatzkräfte und das Datum",
+   "Nur den Fülldruck bei Einsatzbeginn",
+   "Nur die Funkrufnamen der eingesetzten Fahrzeuge"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.52",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Was geschieht, wenn 10 Minuten nach Einsatzbeginn keine Rückmeldung eines Trupps zur Einsatzstelle oder zum Anmarschweg vorliegt?",
+  "o": [
+   "Es ertönt ein Warnton (1 Drittel der Einsatzzeit vorüber), und der Atemschutzüberwacher startet eine Druckabfrage",
+   "Der Trupp wird automatisch als vermisst gemeldet",
+   "Der Sicherheitstrupp wird ohne Rücksprache mit dem Einheitsführer sofort nachgeschickt",
+   "Die Atemschutzüberwachung wird an dieser Stelle beendet"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.53",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Was gehört laut Skript zur Ausrüstung, die der Sicherheitstrupp bei Bereitstellung am Verteiler bereitlegt?",
+  "o": [
+   "Schlauchtragekörbe mit Hohlstrahlrohr, Rettungsmulde mit großem Bergetuch und Reserve-PA sowie Brechwerkzeug",
+   "Ausschließlich ein zweites vollständig besetztes Löschfahrzeug",
+   "Nur ein Reservefunkgerät und ein Ersatzhelm",
+   "Nur die persönliche Schutzausrüstung ohne weitere Hilfsmittel"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.54",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Welcher Gegenstand befindet sich laut Skript in der SiTrupp-Tasche, die der Truppführer des Sicherheitstrupps anstelle der AT-Tasche mitführt?",
+  "o": [
+   "Rettungswindel",
+   "Ersatzflaschenventil",
+   "Zweite Wärmebildkamera",
+   "Reservefunkgerät ausschließlich für die Atemschutzüberwachung"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.55",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Welche drei praxisgerechten Methoden nennt das Skript, um einem in Not geratenen Atemschutzgeräteträger mit unzureichendem Luftvorrat wieder Atemluft zuzuführen?",
+  "o": [
+   "Umkuppeln der Mitteldruckleitung an eine externe Luftversorgung, Austausch des Lungenautomaten, Versorgung mit einer Fluchthaube",
+   "Wechsel der Atemluftflasche im laufenden Betrieb, Anlegen einer zweiten Maske übereinander, Beatmung von Mund zu Mund",
+   "Öffnen des Spülknopfes am Filter, Abnehmen der Maske, Wechsel auf ein Regenerationsgerät",
+   "Erhöhung des Mitteldrucks am Druckminderer, Wechsel der Kopfbebänderung, Einsatz einer Halbmaske"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.56",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Was kennzeichnet die \"Rechte-Linke-Hand-Suche\" beim Absuchen von Räumen unter Nullsicht?",
+  "o": [
+   "Ein Truppmitglied hält ständigen physischen Kontakt zur Wand und arbeitet sich an dieser entlang, während das zweite Mitglied den Raum durchsucht, ohne sich vom Kollegen zu trennen",
+   "Beide Truppmitglieder suchen unabhängig voneinander in getrennten Räumen",
+   "Es wird ausschließlich mit einer Führungsleine ohne jeden Wandkontakt gesucht",
+   "Der Trupp sucht ausschließlich im Stehen mit der Wärmebildkamera"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.57",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Ab welcher ungefähren Raumgröße wird laut Skript statt der \"Tauchertechnik\" die \"Baumtechnik\" mit Führungs- und Rückwegleine angewendet?",
+  "o": [
+   "Bei Räumen über ca. 20 x 20 m",
+   "Bei Räumen über ca. 5 x 5 m",
+   "Bei Räumen über ca. 50 x 50 m",
+   "Die Baumtechnik wird unabhängig von der Raumgröße stets angewendet"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.58",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Wie wird eine Tür markiert, die bei der Personensuche bereits zweimal vollständig durchsucht wurde?",
+  "o": [
+   "Mit einem Kreuz (X)",
+   "Mit einem einzelnen Strich",
+   "Mit einem Kreis",
+   "Mit zwei parallelen, waagerechten Strichen"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.59",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Was gehört zum \"Türcheck\" vor dem Öffnen einer vermuteten Brandraumtür?",
+  "o": [
+   "Prüfung von Öffnungsrichtung, Türmaterial und sichtbarem Rauch am Rand, ergänzt um einen Temperaturcheck mit der Handinnenseite ohne Handschuhe",
+   "Ausschließlich das sofortige Aufbrechen der Tür mit der Feuerwehraxt",
+   "Die Tür wird grundsätzlich ohne weitere Prüfung vollständig geöffnet",
+   "Es genügt ein kurzer Blick durch das Türschlüsselloch"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.60",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Welche Anzeichen im Brandraum deuten eher auf einen bevorstehenden Flashover (Feuerübersprung) hin?",
+  "o": [
+   "Ein weiterhin mit Sauerstoff versorgter Raum mit stark ansteigender Temperatur und zunehmendem Ausgasen der Einrichtungsgegenstände",
+   "Ein vollständig geschlossener, sauerstoffarmer Raum mit quellendem, sich wieder einziehendem Rauch an Türspalten",
+   "Fehlende Brandgeräusche bei starker Verrußung ohne jede Zuluftöffnung",
+   "Ein deutlich spürbarer, plötzlicher Lufteinsog in Richtung des Raumes"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.61",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Welche Kombination von Bedingungen begünstigt laut Skript eine Rauchgasexplosion (Backdraft)?",
+  "o": [
+   "Fortgeschrittener Brand in geschlossenem Raum mit stetig abnehmendem Sauerstoffangebot, Ansammlung von Pyrolyseprodukten und vorhandener Zündquelle",
+   "Ein frisch entstandener Entstehungsbrand mit hohem Sauerstoffangebot und offenem Fenster",
+   "Ein bereits vollständig erloschener Brand ohne jegliche Glutnester",
+   "Ein Raum mit permanent hoher Luftwechselrate durch mehrere offene Fenster"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.62",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Welcher Vorteil wird dem Seitenkriechgang im unmittelbaren Gefahrenbereich bzw. Brandraum zugeschrieben?",
+  "o": [
+   "Minimiertes Absturzrisiko durch nach hinten verlagerten Schwerpunkt bei gleichzeitig freier Hand und besserer Sicht nach oben",
+   "Eine deutlich höhere Fortbewegungsgeschwindigkeit als im aufrechten Gang",
+   "Vollständiger Verzicht auf Wandkontakt zur schnelleren Orientierung",
+   "Ein geringerer Luftverbrauch durch flachere Atmung"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "3.63",
+  "s": "FwDV 7 · Atemschutz",
+  "q": "Welche Faustregel nennt das Skript für die einzuplanende Schlauchreserve bei der Verlegung im Treppenauge?",
+  "o": [
+   "3 Etagen entsprechen etwa einer C-Schlauchlänge Reserve",
+   "1 Etage entspricht etwa 3 C-Schlauchlängen Reserve",
+   "Pro Etage wird grundsätzlich keine zusätzliche Reserve benötigt",
+   "1 Etage entspricht exakt 10 Metern B-Schlauch"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "12.1",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Wie viele Hauptgruppen umfasst das Periodensystem der Elemente (PSE)?",
+  "o": [
+   "6",
+   "7",
+   "8",
+   "9"
+  ],
+  "c": [
+   2
+  ]
+ },
+ {
+  "n": "12.2",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Welche Elementgruppe des PSE wird als 'Edelgase' bezeichnet?",
+  "o": [
+   "1. Hauptgruppe",
+   "7. Hauptgruppe",
+   "8. Hauptgruppe",
+   "4. Hauptgruppe"
+  ],
+  "c": [
+   2
+  ]
+ },
+ {
+  "n": "12.3",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Wie werden die Elemente der 1. Hauptgruppe des PSE bezeichnet?",
+  "o": [
+   "Halogene",
+   "Erdalkalimetalle",
+   "Alkalimetalle",
+   "Edelgase"
+  ],
+  "c": [
+   2
+  ]
+ },
+ {
+  "n": "12.4",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Wie werden die Elemente der 7. Hauptgruppe des PSE bezeichnet?",
+  "o": [
+   "Halogene",
+   "Alkalimetalle",
+   "Edelgase",
+   "Erdalkalimetalle"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "12.5",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Was gibt die Ordnungszahl eines chemischen Elements an?",
+  "o": [
+   "Die Anzahl der Neutronen im Kern",
+   "Die Anzahl der Protonen im Kern",
+   "Die Anzahl aller Nukleonen",
+   "Die Anzahl der Elektronenschalen"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "12.6",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Auf welchem Versuch basiert das von Rutherford geprägte Atommodell mit Atomkern und Atomhülle?",
+  "o": [
+   "Der Elektrolyse von Wasser",
+   "Dem Streuversuch mit Alphateilchen an einer Goldfolie",
+   "Der Kernspaltung von Uran",
+   "Der Messung der Halbwertzeit von Radium"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "12.7",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Welche Strahlungsart hat im Vergleich der vier Strahlungsarten die geringste Reichweite in Luft?",
+  "o": [
+   "Alpha-Strahlung",
+   "Beta-minus-Strahlung",
+   "Beta-plus-Strahlung",
+   "Gamma-Strahlung"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "12.8",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Welche Materialien werden typischerweise zur Abschirmung von Betastrahlung eingesetzt?",
+  "o": [
+   "Wenige Zentimeter Papier",
+   "Plexiglas bzw. mehrere Millimeter Aluminiumfolie",
+   "Dicke Bleiplatten",
+   "Wasser in beliebiger Schichtdicke"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "12.9",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Warum gilt Gammastrahlung als besonders gefährlich im Vergleich zu Alpha- und Betastrahlung?",
+  "o": [
+   "Weil sie ausschließlich bei Inkorporation wirkt",
+   "Weil ihre Reichweite in Luft fast unbegrenzt ist und sie den Körper von außen bestrahlt",
+   "Weil sie sich nur durch Wasser abschirmen lässt",
+   "Weil sie im Gegensatz zu Alpha- und Betastrahlung keine Energie abgibt"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "12.10",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Was passiert vereinfacht beim Beta-minus-Zerfall auf Ebene der Nukleonen?",
+  "o": [
+   "Ein Neutron wandelt sich unter Abgabe eines Elektrons in ein Proton um",
+   "Ein Proton wandelt sich unter Abgabe eines Positrons in ein Neutron um",
+   "Zwei Protonen verschmelzen zu einem Neutron",
+   "Ein Elektron wird vom Atomkern eingefangen und bildet ein Neutron"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "12.11",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Wie werden Nuklide bezeichnet, die dieselbe Protonenzahl, aber eine unterschiedliche Neutronenzahl besitzen?",
+  "o": [
+   "Isobare",
+   "Isotone",
+   "Isotope",
+   "Isomere"
+  ],
+  "c": [
+   2
+  ]
+ },
+ {
+  "n": "12.12",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Wie werden Nuklide bezeichnet, die dieselbe Neutronenzahl, aber unterschiedliche Elemente (unterschiedliche Protonenzahl) repräsentieren?",
+  "o": [
+   "Isotope",
+   "Isobare",
+   "Isotone",
+   "Ionen"
+  ],
+  "c": [
+   2
+  ]
+ },
+ {
+  "n": "12.13",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Wie werden Nuklide bezeichnet, die dieselbe Massenzahl (Nukleonenzahl), aber eine unterschiedliche Protonenzahl besitzen?",
+  "o": [
+   "Isotone",
+   "Isotope",
+   "Isobare",
+   "Isomere"
+  ],
+  "c": [
+   2
+  ]
+ },
+ {
+  "n": "12.14",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Was wird in einer Nuklidkarte auf der Ordinate (senkrechte Achse) aufgetragen?",
+  "o": [
+   "Die Neutronenzahl N",
+   "Die Protonenzahl Z",
+   "Die Massenzahl A",
+   "Die Halbwertzeit"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "12.15",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Was wird in einer Nuklidkarte auf der Abszisse (waagerechte Achse) aufgetragen?",
+  "o": [
+   "Die Protonenzahl Z",
+   "Die Massenzahl A",
+   "Die Neutronenzahl N",
+   "Die Ordnungszahl"
+  ],
+  "c": [
+   2
+  ]
+ },
+ {
+  "n": "12.16",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Wie ist die Halbwertzeit eines radioaktiven Nuklids definiert?",
+  "o": [
+   "Die Zeit, in der die gesamte Aktivität einer Probe vollständig abklingt",
+   "Die Zeit, nach der die Hälfte der ursprünglich vorhandenen Atomkerne zerfallen ist",
+   "Die Zeit bis zum Erreichen der maximalen Reichweite der Strahlung",
+   "Die Zeit, die eine Strahlungsart benötigt, um ein Material zu durchdringen"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "12.17",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Ab welcher Ordnungszahl kommen Nuklide in der Natur nicht mehr vor und müssen künstlich erzeugt werden?",
+  "o": [
+   "Ordnungszahl größer als 50",
+   "Ordnungszahl größer als 72",
+   "Ordnungszahl größer als 92",
+   "Ordnungszahl größer als 118"
+  ],
+  "c": [
+   2
+  ]
+ },
+ {
+  "n": "12.18",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Welcher natürlichen Strahlenexposition ist der Mensch ständig ausgesetzt, unabhängig von künstlichen Strahlenquellen?",
+  "o": [
+   "Ausschließlich medizinischer Strahlung aus Röntgenuntersuchungen",
+   "Terrestrischer und kosmischer Strahlung",
+   "Nur der Strahlung aus kerntechnischen Anlagen",
+   "Ausschließlich der Strahlung radioaktiver Abfälle"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "12.19",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Von welchen Faktoren hängt das Ausmaß einer strahlenbedingten Schädigung des Menschen unter anderem ab?",
+  "o": [
+   "Ausschließlich von der Strahlungsart",
+   "Von Bestrahlungsdosis, Dosisleistung, betroffener Körperregion (Ganz- oder Teilkörper), Alter und Gesundheitszustand",
+   "Ausschließlich vom Geschlecht der betroffenen Person",
+   "Ausschließlich vom Abstand zur Strahlenquelle"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "12.20",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Wie unterscheiden sich somatische von genetischen Strahlenschäden grundsätzlich?",
+  "o": [
+   "Somatische Schäden betreffen nur Kinder, genetische nur Erwachsene",
+   "Somatische Schäden treten am betroffenen Körper selbst auf, genetische Schäden betreffen das Erbgut und mögliche Nachkommen",
+   "Somatische Schäden sind immer tödlich, genetische Schäden nie",
+   "Es gibt keinen Unterschied, beide Begriffe meinen dasselbe"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "12.21",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Ab welcher ungefähren Ganzkörperdosis gelten akute Frühschäden als lebensbedrohlich, wenn keine Therapie erfolgt?",
+  "o": [
+   "etwa 0,5 Sievert",
+   "etwa 2 Sievert",
+   "etwa 7 Sievert",
+   "etwa 20 Sievert"
+  ],
+  "c": [
+   2
+  ]
+ },
+ {
+  "n": "12.22",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Welche Erkrankungen zählen zu den typischen Spätschäden einer Strahlenexposition, die erst Jahre bis Jahrzehnte später auftreten?",
+  "o": [
+   "Akute Hautverbrennungen und Erbrechen",
+   "Strahlenbedingter Krebs und Leukämie",
+   "Sofortige Bewusstlosigkeit",
+   "Unmittelbarer Haarausfall innerhalb von Stunden"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "12.23",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Welchen Bewertungsfaktor (Strahlenwichtungsfaktor) besitzt Alphastrahlung im Vergleich zu Beta- und Gammastrahlung?",
+  "o": [
+   "Er ist mit Faktor 1 identisch zu Beta- und Gammastrahlung",
+   "Er beträgt 20 und ist damit deutlich höher als bei Beta- und Gammastrahlung",
+   "Er beträgt 0, da Alphastrahlung als ungefährlich eingestuft wird",
+   "Er ist geringer als bei Betastrahlung"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "12.24",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Was versteht man unter 'Kontamination' im Unterschied zu 'Inkorporation'?",
+  "o": [
+   "Kontamination ist die äußere Verunreinigung mit radioaktiven Stoffen, Inkorporation die Aufnahme in den Körper",
+   "Kontamination und Inkorporation sind Synonyme für denselben Vorgang",
+   "Kontamination bezeichnet nur die Aufnahme über die Atemwege, Inkorporation die Aufnahme über die Haut",
+   "Kontamination betrifft nur Gammastrahler, Inkorporation nur Alphastrahler"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "12.25",
+  "s": "ABC-Einsatz · Strahlenschutz",
+  "q": "Welche vier klassischen Grundsätze des Strahlenschutzes werden im Einsatz angewendet, um die Strahlenexposition zu reduzieren?",
+  "o": [
+   "Abstand halten, Aufenthaltsdauer begrenzen, Abschirmung nutzen, Abschaltung der Quelle",
+   "Nur Abschirmung und Abschaltung",
+   "Schnelligkeit, Kraft, Ausdauer, Konzentration",
+   "Belüftung, Beleuchtung, Beschriftung, Begrenzung"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.1",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Für welche fünf Schutzgüter muss bei jedem Einsatz eine Gefährdung geprüft werden?",
+  "o": [
+   "Menschen, Tiere, Sachwerte, Umwelt, Mannschaft & Gerät",
+   "Nur Menschen und Sachwerte",
+   "Nur Mannschaft & Gerät sowie Umwelt",
+   "Menschen, Fahrzeuge, Straßen, Gebäude"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.2",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Welche taktischen Grundmaßnahmen stehen der Einsatzleitung zur Gefahrenbekämpfung zur Verfügung?",
+  "o": [
+   "Angriff, Verteidigen, In Sicherheit bringen, Rückzug",
+   "Löschen, Belüften, Absperren, Dokumentieren",
+   "Erkunden, Alarmieren, Melden, Warten",
+   "Retten, Reparieren, Räumen, Berichten"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.3",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Wofür steht das Kürzel AAAACEEEEE als Merkhilfe an der Einsatzstelle?",
+  "o": [
+   "Eine Gefahrenmatrix, die typische Gefahrengruppen bei der Erkundung abfragen lässt",
+   "Eine Abkürzung für die Reihenfolge der Löschmitteleinsätze",
+   "Die Kennzeichnung von Gefahrgutklassen auf Fahrzeugen",
+   "Ein Funkrufzeichen für Gefahrgutzüge"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.4",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Wie werden Atemgifte im Einsatzkontext definiert?",
+  "o": [
+   "Als Stoffe, die über die Atemwege oder die Haut in den Körper gelangen und dort schädigend wirken",
+   "Als jede Form von Rauchentwicklung, unabhängig von der Zusammensetzung",
+   "Ausschließlich als radioaktive Gase",
+   "Als Stoffe, die nur bei Hautkontakt gefährlich sind, nicht beim Einatmen"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.5",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Zu welcher Atemgift-Hauptgruppe zählt Stickstoff, und warum ist er gefährlich?",
+  "o": [
+   "Erstickend wirkende Stoffe – er ist selbst nicht giftig, verdrängt aber den Sauerstoff",
+   "Reiz- und ätzend wirkende Stoffe – er löst sich stark in Wasser",
+   "Blut-, Nerven- und Zellgifte – er blockiert den Sauerstofftransport im Blut",
+   "Er gehört zu keiner der drei Atemgift-Hauptgruppen"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.6",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Welches Atemgift ist ein typisches Beispiel für ein Blut-, Nerven- oder Zellgift?",
+  "o": [
+   "Kohlenmonoxid",
+   "Chlor",
+   "Stickstoff",
+   "Wasserdampf"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.7",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Welche Schutzmaßnahmen dienen der Prävention gegen Atemgifte?",
+  "o": [
+   "Umluftunabhängiger Atemschutz, geeignete Filter und Fluchthauben",
+   "Ausschließlich Schutzhandschuhe",
+   "Nur das Tragen von Wathosen",
+   "Erhöhung der Angriffsgeschwindigkeit ohne weitere Schutzausrüstung"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.8",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Welche Verhaltensweisen können bei betroffenen Personen als typische Angst- oder Panikreaktionen auftreten?",
+  "o": [
+   "Erstarren, planloses Flüchten, Rückkehr in die brennende Wohnung, Fenstersprung",
+   "Ausschließlich ruhiges und überlegtes Handeln",
+   "Sofortige Kontaktaufnahme mit der Einsatzleitung",
+   "Systematische Selbstrettung nach Übungsplan"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.9",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Wie sollten Einsatzkräfte einer Panikreaktion bei Betroffenen vorbeugend entgegenwirken?",
+  "o": [
+   "Ruhig auftreten, beruhigend einwirken, das eigene Handeln erklären und Eskalation vermeiden",
+   "Lautstark Anweisungen rufen, um schnell Gehorsam zu erzeugen",
+   "Die Person sich selbst überlassen, bis sie sich beruhigt hat",
+   "Sofort körperlich fixieren, um Fehlverhalten zu verhindern"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.10",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Welche Formen der Brandausbreitung werden unter der Gefahr 'Ausbreitung' unterschieden?",
+  "o": [
+   "Flugfeuer, Feuerbrücken, Feuerüberschlag",
+   "Verpuffung, Deflagration, Detonation",
+   "Strahlung, Konvektion, Konduktion",
+   "Kontamination, Inkorporation, Abschirmung"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.11",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Welche Art der Wärmeübertragung liegt vor, wenn Wärme ohne ein Trägermedium rein elektromagnetisch übertragen wird, wie beim Sonnenlicht?",
+  "o": [
+   "Strahlung (Radiation)",
+   "Konvektion",
+   "Konduktion",
+   "Ausbreitung"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.12",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Wie wird die Wärmeübertragung bezeichnet, bei der Wärme durch ein strömendes Medium wie Luft mitgeführt wird, vergleichbar mit einer Heizung?",
+  "o": [
+   "Konvektion",
+   "Konduktion",
+   "Strahlung",
+   "Detonation"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.13",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Welche Reichweiten haben die drei Strahlungsarten bei atomaren Gefahren typischerweise?",
+  "o": [
+   "Alpha wenige Zentimeter, Beta einige Meter, Gamma mehrere Kilometer",
+   "Alpha mehrere Kilometer, Beta einige Meter, Gamma wenige Zentimeter",
+   "Alle drei Strahlungsarten haben die gleiche Reichweite",
+   "Alpha und Gamma wenige Zentimeter, Beta mehrere Kilometer"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.14",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Was besagt die sogenannte 4A-Regel im Umgang mit atomaren Gefahren?",
+  "o": [
+   "Abstand halten, Aufenthaltsdauer begrenzen, Abschirmung benutzen, Abschalten",
+   "Absperren, Alarmieren, Aufklären, Abrücken",
+   "Anfahren, Angreifen, Ablöschen, Abbauen",
+   "Atemschutz, Anleitern, Abseilen, Absichern"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.15",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Wie werden chemische Gefahren an der Einsatzstelle grundsätzlich beschrieben?",
+  "o": [
+   "Als Schädigung durch Verätzung, Vergiftung oder gefährliche chemische Reaktion",
+   "Als Schädigung, die nur durch mechanische Krafteinwirkung entsteht",
+   "Als reine Geräuschbelastung durch chemische Prozesse",
+   "Als Gefahr, die ausschließlich von radioaktiven Stoffen ausgeht"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.16",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Welche der neun chemischen Gefahrenklassen umfasst ätzend wirkende Stoffe?",
+  "o": [
+   "Klasse 8",
+   "Klasse 3",
+   "Klasse 6",
+   "Klasse 9"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.17",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Welche vier Wirkmechanismen können bei einer einsatzbedingten Erkrankung oder Verletzung unterschieden werden?",
+  "o": [
+   "Mechanisch, thermisch, chemisch, durch Krankheitserreger",
+   "Elektrisch, magnetisch, akustisch, optisch",
+   "Nur mechanisch und thermisch",
+   "Ausschließlich psychische Wirkmechanismen"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.18",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Wie wird eine Explosion grundsätzlich definiert?",
+  "o": [
+   "Als plötzlich ablaufende Oxidationsreaktion",
+   "Als langsame, kontinuierliche Wärmefreisetzung",
+   "Als rein mechanischer Druckaufbau ohne chemische Reaktion",
+   "Als Reaktion, die ausschließlich unter Wasser auftreten kann"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.19",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Welche Explosionsart erreicht Geschwindigkeiten im Kilometerbereich pro Sekunde und einen Druck von mehr als 10 bar?",
+  "o": [
+   "Detonation",
+   "Verpuffung",
+   "Deflagration",
+   "Flash-Over"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.20",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Welches Explosionsphänomen bezeichnet den Zerknall eines Behälters unter Druck- und Hitzeeinwirkung, häufig bei Gasbehältern im Brandfall?",
+  "o": [
+   "BLEVE",
+   "Rauchgasdurchzündung",
+   "Staubexplosion",
+   "Verpuffung"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.21",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Welche Maßnahmen sind beim Vorliegen einer Explosionsgefahr zu treffen?",
+  "o": [
+   "Geeignete Schutzkleidung tragen, richtiges Löschmittel wählen, Explosionsgrenzen überwachen, Gefahrenbereich meiden und Behälter kühlen",
+   "Alle Löschmaßnahmen sofort einstellen und den Einsatzort ohne weitere Abstimmung verlassen",
+   "Ausschließlich mit Wasser aus größter Entfernung löschen",
+   "Nur akustische Warnsignale einsetzen, keine weiteren Maßnahmen"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.22",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Welche fünf Sicherheitsregeln sind beim Arbeiten an elektrischen Anlagen einzuhalten, wobei die eigentliche Durchführung nur durch Fachpersonal erfolgen darf?",
+  "o": [
+   "Freischalten, gegen Wiedereinschalten sichern, Spannungsfreiheit feststellen, Erden und Kurzschließen, benachbarte spannungsführende Teile abdecken",
+   "Absperren, Alarmieren, Ausleuchten, Abrücken, Abmelden",
+   "Erkunden, Melden, Beurteilen, Entscheiden, Befehlen",
+   "Löschen, Kühlen, Belüften, Abdichten, Dokumentieren"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.23",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Welche Ursachen können zu einem Einsturz von Bauteilen im Einsatz führen?",
+  "o": [
+   "Verformung, Abbrand, Festigkeitsverlust durch Wärme, Überlastung, Erschütterung und Materialermüdung",
+   "Ausschließlich Erdbeben und Wettereinflüsse",
+   "Nur unzureichende Beleuchtung am Einsatzort",
+   "Allein die Anwesenheit vieler Einsatzkräfte im Gebäude"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.24",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Welche Maßnahme gehört zum Umgang mit Einsturzgefahr an der Einsatzstelle?",
+  "o": [
+   "Einen Absperrbereich festlegen und tragende Bauteile schützen bzw. abstützen",
+   "Möglichst viele Kräfte gleichzeitig in das gefährdete Gebäude schicken",
+   "Auf jegliche Erkundung verzichten, um Zeit zu sparen",
+   "Nur akustische Signale an Anwohner senden, ohne den Bereich zu sperren"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "13.25",
+  "s": "Gefahren der Einsatzstelle",
+  "q": "Welche der folgenden Gefahren zählt zu den ergänzenden, im AAAACEEEEE-Schema kurz mitbetrachteten Gefahren?",
+  "o": [
+   "Flash-Over",
+   "Elektrizität",
+   "Explosion",
+   "Ausbreitung"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.1",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Welche Leitlinie soll bei der technisch-medizinischen Rettung nach Verkehrsunfällen grundsätzlich beachtet werden?",
+  "o": [
+   "Golden Period of Trauma",
+   "ABCDE-Schema",
+   "AUTO-Regel",
+   "FwDV 100"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.2",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Nach welcher DIN-Norm ist die Technische Hilfeleistung als Oberbegriff für Maßnahmen unter Verwendung spezieller technischer Ausrüstung definiert?",
+  "o": [
+   "DIN 14011",
+   "DIN 14800",
+   "DIN EN 13204",
+   "DIN 14092"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.3",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Wie wird das Einbringen von Leichen, leblosen Tieren oder Sachen fachsprachlich bezeichnet?",
+  "o": [
+   "Bergen",
+   "Retten",
+   "Sofortrettung",
+   "Schnelle Rettung"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.4",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Wann ist eine Sofortrettung eines eingeklemmten Patienten durchzuführen?",
+  "o": [
+   "Wenn der Zustand des Patienten unmittelbar lebensbedrohlich ist oder direkte Gefahren wie Brand drohen",
+   "Immer, wenn ein hydraulischer Rettungssatz vor Ort ist",
+   "Nur wenn die Polizei die Freigabe erteilt hat",
+   "Wenn die Versorgungsöffnung bereits geschaffen wurde"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.5",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Welche Bereiche werden am Unfallort grundsätzlich unterschieden, um Fremdpersonen abzuschirmen und Einsatzkräften ein ungehindertes Arbeiten zu ermöglichen?",
+  "o": [
+   "Absperrbereich und Arbeitsbereich",
+   "Gefahrenbereich und Schutzbereich",
+   "Innenring und Außenring",
+   "Rot- und Grünzone der Feuerwehr"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.6",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Wofür dient der Geräteablageplatz an der Einsatzstelle?",
+  "o": [
+   "Als Ablagefläche für Einsatzmittel zwischen äußerem und innerem Arbeitsbereich zum schnellen Zugriff",
+   "Ausschließlich zur Lagerung entfernter Fahrzeugteile",
+   "Zur Bereitstellung von Löschmitteln für den Wassertrupp",
+   "Als Bereitstellungsraum für nachrückende Fahrzeuge"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.7",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Was versteht man unter dem \"Schrottablageplatz\"?",
+  "o": [
+   "Einen Platz außerhalb des inneren Arbeitsbereichs zum Sammeln entfernter Fahrzeugteile",
+   "Den Bereich, in dem beschädigte Geräte zur Reparatur abgelegt werden",
+   "Den Standort des Rettungswagens",
+   "Den äußeren Absperrbereich für den fließenden Verkehr"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.8",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Welches Verhalten wird von Einsatzkräften an der Einsatzstelle gegenüber dem eingeklemmten Patienten ausdrücklich gefordert?",
+  "o": [
+   "Ruhige und sichere Ausstrahlung sowie Vermeidung unbedachter Äußerungen",
+   "Ständiger Positionswechsel um Nervosität zu vermeiden",
+   "Möglichst wenig Kontakt zum Patienten bis zum Eintreffen des Notarztes",
+   "Ausführliche Erläuterung aller technischen Rettungsschritte gegenüber dem Patienten"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.9",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Welche Mindestschutzausrüstung wird bei jedem Einsatz grundsätzlich vorausgesetzt?",
+  "o": [
+   "Feuerwehrschutzanzug, Helm mit Nackenschutz, Schutzhandschuhe und Schutzschuhwerk",
+   "Feuerwehrschutzanzug und Warnweste ausschließlich",
+   "Chemikalienschutzanzug und Atemschutzgerät",
+   "Helm, Handschuhe und Gehörschutz"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.10",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Wann ist nach FwDV 1 grundsätzlich Warnkleidung zu tragen?",
+  "o": [
+   "Wenn der Verkehrsraum noch nicht oder noch nicht vollständig gesichert ist",
+   "Nur nachts bei Dunkelheit",
+   "Ausschließlich auf der Autobahn",
+   "Nur durch den Einheitsführer während der Erkundung"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.11",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Wie groß ist der empfohlene Warnabstand zur Absicherung einer Einsatzstelle innerorts (Stadt)?",
+  "o": [
+   "ca. 60 m",
+   "ca. 100 m",
+   "ca. 200 m",
+   "ca. 600 m"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.12",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Welcher Warnabstand wird für Einsatzstellen auf der Autobahn empfohlen?",
+  "o": [
+   "ca. 600 m – 800 m",
+   "ca. 60 m",
+   "ca. 200 m",
+   "ca. 300 m – 400 m"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.13",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "In welchem Abstand vor der eigentlichen Unfallstelle wird beim Eintreffen zunächst eine vorläufige Fahrzeugaufstellung eingenommen, bevor der Einheitsführer die endgültige Aufstellung festlegt?",
+  "o": [
+   "30 bis 50 Meter",
+   "5 bis 10 Meter",
+   "100 bis 150 Meter",
+   "10 bis 20 Meter"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.14",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Nach welcher Dienstvorschrift orientiert sich die grundsätzliche Aufgabenverteilung der Gruppe bei technischen Hilfeleistungseinsätzen?",
+  "o": [
+   "FwDV 3",
+   "FwDV 1",
+   "FwDV 100",
+   "FwDV 10"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.15",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Welche Erkundungshilfe wird verwendet, um systematisch nach Gefahrstoffen und Antriebsart des Unfallfahrzeugs (z. B. Gasflaschen, Hybridkomponenten) zu suchen?",
+  "o": [
+   "die AUTO-Regel",
+   "das ABCDE-Schema",
+   "die Golden-Period-Regel",
+   "die GAMS-Regel"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.16",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Welche Aufgabe hat der Maschinist unmittelbar nach dem Eintreffen an der Einsatzstelle zuerst zu erfüllen?",
+  "o": [
+   "Die Einsatzstelle mit Warnblinkanlage, Fahrlicht und blauem Blinklicht sofort sichern",
+   "Den Angriffstrupp beim Glasmanagement unterstützen",
+   "Die Erkundung gemeinsam mit dem Einheitsführer durchführen",
+   "Den Rettungssatz sofort am Fahrzeug ansetzen"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.17",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Welche Funktion übernimmt der Melder, solange noch kein Rettungsmittel an der Einsatzstelle eingetroffen ist?",
+  "o": [
+   "Er wird zum \"Inneren Retter\" und betreut die verunfallte Person im Fahrzeug",
+   "Er sichert ausschließlich den Verkehrsraum",
+   "Er übernimmt die Funktion des Wassertruppführers",
+   "Er dokumentiert ausschließlich den Einsatzverlauf"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.18",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Welcher Sicherheitsabstand soll bei einem nicht ausgelösten Fahrerairbag grundsätzlich eingehalten werden?",
+  "o": [
+   "ca. 60 cm",
+   "ca. 30 cm",
+   "ca. 90 cm",
+   "ca. 120 cm"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.19",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "In welcher Reihenfolge ist beim Trennen der Fahrzeugbatterie vom Bordnetz vorzugehen?",
+  "o": [
+   "Zunächst den Minuspol, dann den Pluspol abklemmen",
+   "Zunächst den Pluspol, dann den Minuspol abklemmen",
+   "Beide Pole gleichzeitig mit dem Schneidgerät durchtrennen",
+   "Zunächst die Anschlusskabel durchtrennen, dann die Klemmen lösen"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.20",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Welche Reihenfolge leistet der Angriffstrupp bei der technischen Hilfe, wenn Melder oder Rettungsdienst noch nicht zur Verfügung stehen?",
+  "o": [
+   "Sicherung des Fahrzeuges, Glas-/Batteriemanagement, Erstöffnung, Versorgungsöffnung, Befreiungsöffnung, Transportfähigkeit herstellen",
+   "Befreiungsöffnung, Erstöffnung, Sicherung des Fahrzeuges, Versorgungsöffnung",
+   "Glasmanagement, Befreiung, Sicherung, Versorgungsöffnung",
+   "Erst die Befreiung, dann erst die Sicherung des Fahrzeuges"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.21",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Wie oft muss der Brandschutz durch den Wassertrupp im Regelfall bei einem Verkehrsunfall grundsätzlich sichergestellt werden?",
+  "o": [
+   "Zweifach (Wasser und Pulver), auf Befehl auch dreifach mit Schaum",
+   "Nur einfach mit Wasser",
+   "Immer dreifach mit Wasser, Pulver und CO2",
+   "Nur auf ausdrücklichen Befehl des Einheitsführers"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.22",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Welche Glasart wird typischerweise in Front- und Glasdachscheiben eines PKW verbaut und kann nicht gekörnt werden?",
+  "o": [
+   "Verbundsicherheitsglas (VSG)",
+   "Einscheibensicherheitsglas (ESG)",
+   "Polycarbonat-Einfachglas",
+   "Gehärtetes Floatglas"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.23",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Wer ist in NRW für Landes- und Bundesstraßen sowie Bundesautobahnen als Straßenbaulastträger primär verantwortlich?",
+  "o": [
+   "\"Straßen NRW\"",
+   "Der Zentrale Betriebshof der jeweiligen Kommune",
+   "Die zuständige Polizeibehörde",
+   "Der Bund unmittelbar über die Autobahn GmbH ohne Landesbeteiligung"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.24",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "An welchen Säulen wird ein verunfalltes Fahrzeug zur Stabilisierung in der vorgefundenen Lage standardmäßig unterbaut?",
+  "o": [
+   "An der A- und B-Säule",
+   "An der C- und D-Säule",
+   "Nur am Mitteltunnel",
+   "Am vorderen Längsträger allein"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.25",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Welche drei Öffnungsarten werden bei der Befreiung eingeklemmter Personen grundsätzlich unterschieden?",
+  "o": [
+   "Zugangsöffnung, Versorgungsöffnung, Befreiungsöffnung",
+   "Erstöffnung, Zweitöffnung, Drittöffnung",
+   "Dachöffnung, Türöffnung, Heckklappenöffnung",
+   "Notöffnung, Standardöffnung, Komfortöffnung"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.26",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Beim Entfernen einer Fahrzeugtür mit dem Spreizer: Welches Vorgehen ist beim Ansetzen an den Türscharnieren korrekt?",
+  "o": [
+   "Der Spreizer wird so nah wie möglich am jeweiligen Scharnier angesetzt, zunächst am oberen, dann am unteren Scharnier",
+   "Der Spreizer wird stets mittig zwischen beiden Scharnieren angesetzt",
+   "Zuerst wird das untere, dann das obere Scharnier abgespreizt",
+   "Der Spreizer wird nur an der Schlossseite der Tür angesetzt"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.27",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Welches Fahrzeugelement bleibt bei der großen Seitenöffnung im Gegensatz zur Dachabnahme als einziges verstärktes Element erhalten und wird nicht komplett durchtrennt?",
+  "o": [
+   "Die B-Säule",
+   "Die A-Säule",
+   "Die C-Säule",
+   "Der Schweller"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.28",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "An welchem Punkt sollte ein hydraulisches Schneidgerät möglichst angesetzt werden, um die größtmögliche Schneidkraft zu erzielen?",
+  "o": [
+   "So nah wie möglich am Drehpunkt der Messer",
+   "So weit wie möglich vom Drehpunkt der Messer entfernt",
+   "Immer mittig zwischen Drehpunkt und Messerspitze",
+   "An der Messerspitze, um maximale Öffnungsweite zu nutzen"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.29",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Woraus besteht ein klassischer hydraulischer Rettungssatz im Regelfall?",
+  "o": [
+   "Aus Spreizer, Rettungsschere und ggf. Rettungszylinder, angetrieben über einen Ölkompressor",
+   "Ausschließlich aus einer Kombischere mit integriertem Akku",
+   "Aus einer Rettungssäge und einem Federkörner",
+   "Aus Hebekissen, Luftheber und Kompressor"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "14.30",
+  "s": "Technische Hilfeleistung · Straße",
+  "q": "Worin unterscheiden sich Luftheber grundsätzlich von Hebekissen?",
+  "o": [
+   "Luftheber werden mit deutlich geringerem Druck betrieben und erreichen eine wesentlich größere Hubhöhe",
+   "Luftheber benötigen keinen Kompressor",
+   "Luftheber werden ausschließlich für Zugunglücke eingesetzt",
+   "Luftheber haben keine Hubkraftbegrenzung"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.1",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Welche Aussage zum Begriff 'bivalenter Antrieb' ist richtig?",
+  "o": [
+   "Das Fahrzeug kann in einem Motor zwei unterschiedliche Kraftstoffarten verbrennen",
+   "Das Fahrzeug besitzt zwei getrennte Elektromotoren",
+   "Das Fahrzeug verfügt über zwei Hochvolt-Batterien",
+   "Das Fahrzeug kann nur mit einer einzigen Kraftstoffart betrieben werden"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.2",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Wodurch unterscheidet sich ein Plug-in-Hybrid grundsätzlich von einem klassischen Hybridelektrofahrzeug (HEV)?",
+  "o": [
+   "Die HV-Batterie kann zusätzlich extern über eine Ladesäule aufgeladen werden",
+   "Er besitzt keinen Verbrennungsmotor",
+   "Er verfügt über keine 12V-Batterie",
+   "Er wird ausschließlich mit Wasserstoff betrieben"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.3",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Ordnen Sie die Abkürzung 'FCEV' richtig zu.",
+  "o": [
+   "Fuel Cell Electric Vehicle - Fahrzeug mit Brennstoffzelle",
+   "Battery Electric Vehicle - rein batterieelektrisches Fahrzeug",
+   "Extended Range Electric Vehicle - Reichweitenverlängerung durch kleinen Verbrenner",
+   "Flexible Combustion Electric Vehicle - bivalentes Gasfahrzeug"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.4",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Welche Aussage zu den zwei elektrischen Systemen eines Elektro- oder Hybridfahrzeugs trifft zu?",
+  "o": [
+   "12V-System und Hochvolt-System besitzen jeweils einen eigenen Energiespeicher und sind über eine Leistungselektronik miteinander verbunden",
+   "Beide Systeme teilen sich dieselbe Batterie",
+   "Das 12V-System versorgt ausschließlich den Antrieb",
+   "Das Hochvolt-System lädt sich ausschließlich über die Lichtmaschine"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.5",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Welches der folgenden Merkmale gehört NICHT zur A-U-T-O-Regel bei der Fahrzeugerkundung?",
+  "o": [
+   "Trennschalter betätigen",
+   "Auslaufende Betriebsstoffe erkennen",
+   "Unterboden absuchen",
+   "Oberflächen auf Aufkleber und Kennzeichnung prüfen"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.6",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Welches Merkmal weist typischerweise auf ein zertifiziertes Hochvolt-Fahrzeug hin?",
+  "o": [
+   "Orangefarbene Hochvoltleitungen und -steckverbindungen",
+   "Ein zusätzlicher Tankfüllstutzen im Kofferraum",
+   "Eine besonders laute Abgasanlage",
+   "Ein schwarzer Aufkleber mit der Aufschrift 'Diesel'"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.7",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Was bewirkt die 'galvanische Trennung' als Schutzmechanismus in Hochvolt-Fahrzeugen?",
+  "o": [
+   "Der HV-Stromkreis ist in sich geschlossen, hat keinen Masseanschluss zur Karosserie, wodurch ein Stromfluss durch den Körper bei Berührung ausgeschlossen wird",
+   "Die 12V-Batterie wird dauerhaft vom Bordnetz getrennt",
+   "Der Airbag wird von der Zündung getrennt",
+   "Die HV-Batterie wird bei jeder Fahrt neu verschaltet"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.8",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Was passiert laut Schutzkonzept automatisch, wenn bei einem Unfall der Airbag auslöst?",
+  "o": [
+   "Das Airbag-Steuergerät führt eine automatisierte Abschaltung der HV-Komponenten herbei",
+   "Die Fahrzeugbeleuchtung schaltet sich ab",
+   "Der Tankdeckel entriegelt sich automatisch",
+   "Die HV-Batterie wird automatisch ausgebaut"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.9",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Welche Zeitspanne nach dem Ausschalten eines Hybridfahrzeugs bleibt der elektrische Teil des Hybrid-Systems noch aktiv?",
+  "o": [
+   "90 Sekunden",
+   "10 Sekunden",
+   "5 Minuten",
+   "30 Minuten"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.10",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Welche Sicherheitsabstände sind bei der Brandbekämpfung an spannungsführenden Hybrid-/HV-Komponenten einzuhalten?",
+  "o": [
+   "1 m bei Sprühstrahl, 5 m bei Vollstrahl",
+   "0,5 m bei Sprühstrahl, 2 m bei Vollstrahl",
+   "5 m bei Sprühstrahl, 10 m bei Vollstrahl",
+   "Es gibt keinen vorgeschriebenen Mindestabstand"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.11",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Welche chemische Gefahr geht von der NiMH-Batterie eines Hybridfahrzeugs aus?",
+  "o": [
+   "Der Elektrolyt enthält stark alkalische Kalium-/Natriumhydroxid-Lauge mit einem pH-Wert von ca. 13,5",
+   "Der Elektrolyt ist stark sauer mit einem pH-Wert von ca. 1",
+   "Es tritt reines Quecksilber aus",
+   "Es besteht keinerlei chemische Gefahr"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.12",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Wie hoch ist die Mindestzündenergie von Wasserstoff, die bei Fahrzeugen mit Brennstoffzelle relevant ist?",
+  "o": [
+   "sehr niedrig, ca. 0,02 mJ",
+   "sehr hoch, ca. 200 mJ",
+   "ca. 20 J",
+   "Wasserstoff besitzt keine definierte Zündenergie"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.13",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Bei welchem Fülldruck wird Autogas (LPG) typischerweise im Fahrzeugtank gespeichert und bei welchem Füllstand schaltet die automatische Füllstop-Einrichtung ab?",
+  "o": [
+   "ca. 8 bar Speicherdruck, automatischer Füllstop bei 80 % Tankvolumen",
+   "ca. 200 bar Speicherdruck, Füllstop bei 100 % Tankvolumen",
+   "ca. 30 bar Speicherdruck, Füllstop bei 50 % Tankvolumen",
+   "ca. 1 bar Speicherdruck, kein automatischer Füllstop vorhanden"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.14",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Bei welchem Ansprechdruck öffnet das Sicherheitsventil eines Flüssiggastanks (LPG), um ein Bersten des Behälters bei Brandeinwirkung zu verhindern?",
+  "o": [
+   "ca. 30 bar",
+   "ca. 8 bar",
+   "ca. 200 bar",
+   "ca. 1 bar"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.15",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Welche kritische Temperatur einer Lithium-Ionen-Zelle markiert den Beginn der Kettenreaktion 'Thermal Runaway'?",
+  "o": [
+   "ca. 120 °C",
+   "ca. 60 °C",
+   "ca. 300 °C",
+   "ca. 800 °C"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.16",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Welche maximale Temperatur kann durch die exotherme Reaktion beim Thermal Runaway einer Lithium-Ionen-Zelle erreicht werden?",
+  "o": [
+   "über 800 °C",
+   "ca. 120 °C",
+   "ca. 250 °C",
+   "ca. 500 °C"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.17",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Welche giftigen Dämpfe entstehen zusätzlich zu den üblichen Brandgasen bei einem Lithium-Ionen-Akku-Brand?",
+  "o": [
+   "Flusssäure-Dämpfe (Fluorwasserstoff)",
+   "Ausschließlich Kohlenmonoxid",
+   "Schwefelwasserstoff",
+   "Ammoniak"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.18",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Warum ist beim Löschen eines Lithium-Ionen-Akkus mit Wasser trotz des elektrochemischen Charakters (kein klassischer Metallbrand) dennoch Vorsicht geboten?",
+  "o": [
+   "Das Wassermolekül wird durch die hohe Reaktivität des Alkalimetalls zerlegt, wodurch Wasserstoff entsteht und es zu einer Knallgasreaktion kommen kann",
+   "Wasser verstärkt grundsätzlich jeden Brand durch zusätzlichen Sauerstoffeintrag",
+   "Wasser führt zu einer sofortigen unkontrollierten Kernspaltung",
+   "Wasser hat bei Li-Ionen-Bränden überhaupt keine Wirkung und darf nicht eingesetzt werden"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.19",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Wie viel Löschwasser wird beispielhaft benötigt, um einen brennenden Tesla Model S abzulöschen?",
+  "o": [
+   "ca. 11.000 Liter",
+   "ca. 1.000 Liter",
+   "ca. 500 Liter",
+   "ca. 50.000 Liter"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.20",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Am Beispiel des Renault Zoe: Bei welcher Schmelztemperatur wird die werkseitig verbaute Löschöffnung im Unterboden für den Löschmittelzugang freigegeben?",
+  "o": [
+   "420 °C",
+   "100 °C",
+   "800 °C",
+   "1200 °C"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.21",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Welche Ausdehnung hat gemäß Einsatzstellengliederung typischerweise der unmittelbare Arbeitsbereich um ein verunfalltes Fahrzeug?",
+  "o": [
+   "ca. 5 m",
+   "ca. 10 m",
+   "ca. 100 m",
+   "ca. 50 m"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.22",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Welcher Sicherheitsabstand sollte bei einem nicht ausgelösten Fahrerairbag mindestens eingehalten werden?",
+  "o": [
+   "60 cm",
+   "30 cm",
+   "90 cm",
+   "10 cm"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.23",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "In welcher Reihenfolge sollte beim technischen Rettungseinsatz grundsätzlich vorgegangen werden?",
+  "o": [
+   "Stabilisieren, Zugang schaffen, Versorgung, Befreiung",
+   "Befreiung, Versorgung, Zugang schaffen, Stabilisieren",
+   "Zugang schaffen, Befreiung, Stabilisieren, Versorgung",
+   "Versorgung, Stabilisieren, Befreiung, Zugang schaffen"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.24",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Welche Spreizkraft und welches Gewicht kennzeichnen den Hochleistungs-Spreizer SP 60 im Vergleich zum Standard-Spreizer SP 49?",
+  "o": [
+   "SP 60: 68-430 kN Spreizkraft bei 24,7 kg, SP 49: 54-330 kN bei 19,9 kg",
+   "SP 60 und SP 49 besitzen identische Spreizkraft und Gewicht",
+   "SP 60: 54-330 kN bei 19,9 kg, SP 49: 68-430 kN bei 24,7 kg",
+   "SP 60 hat eine geringere Spreizkraft, aber ein höheres Gewicht als SP 49"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "15.25",
+  "s": "E-/Hybridfahrzeuge",
+  "q": "Was ist beim gleichzeitigen Einsatz von Hebekissen ausdrücklich verboten?",
+  "o": [
+   "Mehr als zwei Kissen übereinander zu stapeln ('Türmchen bauen')",
+   "Hebekissen überhaupt mit einem Kompressor zu befüllen",
+   "Hebekissen bei einem Betriebsdruck von unter 8 bar einzusetzen",
+   "Hebekissen gemeinsam mit Unterbaumaterial zu verwenden"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.1",
+  "s": "Drehleiter",
+  "q": "Auf welchen rechtlichen Grundlagen basiert die Ausbildung des Drehleitermaschinisten, da sie nicht in der FwDV 2 geregelt ist?",
+  "o": [
+   "Arbeitsschutzgesetz, Betriebssicherheitsverordnung und UVV",
+   "Ausschließlich die Straßenverkehrsordnung",
+   "Die DIN 14011 (Begriffe Feuerwehrwesen)",
+   "Nur die Herstellervorgaben des jeweiligen Fahrzeugs"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.2",
+  "s": "Drehleiter",
+  "q": "Warum reicht für die Ausbildung von Drehleitermaschinisten eine normale Arbeitsschutzunterweisung nicht aus?",
+  "o": [
+   "Weil die Feuerwehr gegenüber den zu rettenden Personen (Dritten) eine besondere Verantwortung trägt",
+   "Weil Drehleitern grundsätzlich nicht als Arbeitsmittel gelten",
+   "Weil dies ausschließlich für Hubarbeitsbühnen vorgeschrieben ist",
+   "Weil das Baurecht keine Anforderungen an das Personal stellt"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.3",
+  "s": "Drehleiter",
+  "q": "Ab welcher Brüstungshöhe der anzuleiternden Öffnungen verlangt §5 der Landesbauordnung NRW statt eines Zu-/Durchgangs eine Zu-/Durchfahrt für die Feuerwehr?",
+  "o": [
+   "ab 8 m über Gelände",
+   "ab 5 m über Gelände",
+   "ab 12 m über Gelände",
+   "ab 22 m über Gelände"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.4",
+  "s": "Drehleiter",
+  "q": "Welche Belastbarkeit müssen Aufstell- und Bewegungsflächen für Feuerwehrfahrzeuge nach der Muster-Richtlinie mindestens aufweisen?",
+  "o": [
+   "Achslast bis 10 t und Gesamtgewicht bis 16 t",
+   "Achslast bis 5 t und Gesamtgewicht bis 8 t",
+   "Achslast bis 16 t und Gesamtgewicht bis 32 t",
+   "Es gibt keine festgelegte Mindestbelastbarkeit"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.5",
+  "s": "Drehleiter",
+  "q": "Welche Mindestbreite muss eine Aufstellfläche für Hubrettungsfahrzeuge nach der Muster-Richtlinie über Flächen für die Feuerwehr haben?",
+  "o": [
+   "3,50 m",
+   "2,00 m",
+   "5,50 m",
+   "1,50 m"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.6",
+  "s": "Drehleiter",
+  "q": "Nach welcher Norm ist das Hinweisschild „Feuerwehrzufahrt“ genormt, mit dem Zufahrten zu kennzeichnen sind?",
+  "o": [
+   "DIN 4066",
+   "DIN 14034",
+   "DIN 1846",
+   "DIN 14502"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.7",
+  "s": "Drehleiter",
+  "q": "Welche maximale Höhe dürfen Randbegrenzungen von Zufahrten und Aufstellflächen für die Feuerwehr nach DIN 14090 haben?",
+  "o": [
+   "0,8 m",
+   "0,3 m",
+   "1,2 m",
+   "2,0 m"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.8",
+  "s": "Drehleiter",
+  "q": "Welche Maße gibt das Merkblatt B1 (Flächen für die Feuerwehr) als übliche Aufstellfläche speziell für Drehleitern an?",
+  "o": [
+   "5,5 m x 11 m",
+   "3,5 m x 8 m",
+   "6,0 m x 12 m",
+   "4,0 m x 10 m"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.9",
+  "s": "Drehleiter",
+  "q": "Bis zu welcher Fußbodenoberkante darf der zweite Rettungsweg über Hubrettungsgeräte der Feuerwehr sichergestellt werden?",
+  "o": [
+   "bis 22 m",
+   "bis 8 m",
+   "bis 30 m",
+   "bis 12 m"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.10",
+  "s": "Drehleiter",
+  "q": "In welchem der folgenden Fälle ist nach der Landesbauordnung KEIN zweiter Rettungsweg für eine Nutzungseinheit erforderlich?",
+  "o": [
+   "Bei ebenerdigen Räumen mit einem Ausgang ins Freie, der von jeder Stelle in höchstens 15 m erreichbar ist",
+   "Wenn das Gebäude eine Brüstungshöhe von mehr als 22 m hat",
+   "Wenn nur eine tragbare Steckleiter vorhanden ist",
+   "Wenn das Gebäude über eine Feuerwehrzufahrt verfügt"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.11",
+  "s": "Drehleiter",
+  "q": "Welche Norm legt die einheitliche Nomenklatur und allgemeine Anforderungen für Hubrettungsfahrzeuge fest?",
+  "o": [
+   "DIN 1846-1",
+   "DIN 14011",
+   "DIN VDE 0132",
+   "DIN EN 363"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.12",
+  "s": "Drehleiter",
+  "q": "Worin unterscheiden sich Drehleitern nach DIN 14043 von solchen nach DIN 14044?",
+  "o": [
+   "DIN 14043 beschreibt Drehleitern mit kombinierten (automatischen) Bewegungen, DIN 14044 solche mit sequenziellen (halbautomatischen) Bewegungen",
+   "DIN 14043 gilt nur für Hubarbeitsbühnen, DIN 14044 nur für Drehleitern",
+   "DIN 14043 regelt die Rüstzeit, DIN 14044 die Fahrzeugmasse",
+   "Es gibt inhaltlich keinen Unterschied zwischen beiden Normen"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.13",
+  "s": "Drehleiter",
+  "q": "Was bezeichnet die Rüstzeit einer Drehleiter?",
+  "o": [
+   "Die Zeit von der Fahrstellung bis zum Erreichen der maximalen Rettungshöhe mit abgestütztem und betriebsbereitem Fahrzeug",
+   "Die Zeit, die für die tägliche Wartung des Fahrzeugs benötigt wird",
+   "Die reine Fahrzeit von der Feuerwache zur Einsatzstelle",
+   "Die Zeit, bis der Drehleitermaschinist ausgebildet ist"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.14",
+  "s": "Drehleiter",
+  "q": "Welche maximale Rüstzeit gilt für eine Drehleiter mit Spülkorb?",
+  "o": [
+   "140 Sekunden",
+   "90 Sekunden",
+   "180 Sekunden",
+   "240 Sekunden"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.15",
+  "s": "Drehleiter",
+  "q": "In welchem Massebereich muss laut DIN 14502-1 die Gesamtmasse einer DLK 23 liegen, damit sie der Massenklasse M III zugeordnet wird?",
+  "o": [
+   "zwischen 14,0 t und 16,0 t",
+   "zwischen 10,0 t und 12,0 t",
+   "zwischen 16,0 t und 20,0 t",
+   "zwischen 8,0 t und 10,0 t"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.16",
+  "s": "Drehleiter",
+  "q": "Wofür steht die Kategorie „3“ in der Typenbezeichnung eines Hubrettungsfahrzeugs?",
+  "o": [
+   "geländegängig",
+   "straßenfähig",
+   "geländefähig",
+   "wasserfahrbereit"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.17",
+  "s": "Drehleiter",
+  "q": "Welche vier Varianten der Abstützung werden bei Drehleitern grundsätzlich unterschieden?",
+  "o": [
+   "Waagerecht-Senkrecht, X-Abstützung, Senkrecht-Abstützung und Schräg-Abstützung",
+   "Voll-, Halb-, Punkt- und Linienabstützung",
+   "Vorne, Hinten, Links und Rechts",
+   "Hydraulisch, Mechanisch, Manuell und Pneumatisch"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.18",
+  "s": "Drehleiter",
+  "q": "Welche Grundbedingung muss für die Standsicherheit eines Hubrettungsfahrzeugs in jeder Betriebsstellung erfüllt sein?",
+  "o": [
+   "Die Summe der Standmomente muss stets größer sein als die Summe der Kippmomente",
+   "Alle sechs Abstützpunkte müssen den Boden vollständig verlassen",
+   "Die Abstützbreite muss immer minimal gehalten werden",
+   "Die Feststellbremse muss während der Abstützung gelöst sein"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.19",
+  "s": "Drehleiter",
+  "q": "Welche Aufgabe erfüllt die Federfeststellung bei einer Drehleiter?",
+  "o": [
+   "Sie legt die Federung der Hinterachse fest und ist Voraussetzung für den Leiterbetrieb",
+   "Sie sichert den Korb gegen Absturz",
+   "Sie begrenzt die maximale Ausladung des Leiterparks",
+   "Sie verhindert das Aktivieren des Wenderohrs"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.20",
+  "s": "Drehleiter",
+  "q": "Was passiert, wenn während einer Bewegung des Leiterparks der Fuß vom Totmannschalter genommen wird?",
+  "o": [
+   "Alle Fahrbewegungen müssen sofort stoppen",
+   "Die Bewegung wird automatisch beschleunigt",
+   "Nur die Korbsteuerung wird deaktiviert, der Hauptsteuerstand bleibt aktiv",
+   "Es passiert nichts, der Totmannschalter wirkt nur beim Abstützen"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.21",
+  "s": "Drehleiter",
+  "q": "Worin unterscheidet sich der Notausschalter grundsätzlich vom Totmannschalter?",
+  "o": [
+   "Der Notausschalter stoppt alle Bewegungen sofort, auch wenn der Totmannschalter zu diesem Zeitpunkt aktiv betätigt ist",
+   "Der Notausschalter wirkt nur am Korbsteuerstand, nicht am Hauptbedienstand",
+   "Der Totmannschalter hat Vorrang vor dem Notausschalter",
+   "Beide Einrichtungen erfüllen exakt dieselbe Funktion"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.22",
+  "s": "Drehleiter",
+  "q": "In welcher Situation wird die Anleiterart „Vertikal-Flucht“ angewendet?",
+  "o": [
+   "Beim Umfahren vertikaler Hindernisse wie Laternenmasten oder Gebäudekanten",
+   "Bei horizontalen Hindernissen wie einem Gebäudevorbau",
+   "Ausschließlich beim Löschangriff über das Wenderohr",
+   "Nur beim Einsatz der Drehleiter in der Anleiterbereitschaft"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.23",
+  "s": "Drehleiter",
+  "q": "Wofür stehen die vier Buchstaben der HAUS-Regel zur finalen Positionierung einer Drehleiter der 30-m-Klasse?",
+  "o": [
+   "Hindernisse, Abstände, Untergrund, Sicherheit",
+   "Höhe, Ausladung, Umfeld, Standfestigkeit",
+   "Hydraulik, Antrieb, Unterwagen, Steuerung",
+   "Halteleinen, Abstützung, Untergrundprüfung, Sichtkontrolle"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.24",
+  "s": "Drehleiter",
+  "q": "Welche zulässige Zuladung im Benutzungsfeld gilt bei voller Abstützbreite bis zu einem Radius von 17 m um die Drehkranzmitte (30-m-Klasse)?",
+  "o": [
+   "3 Personen bzw. 270 kg",
+   "1 Person bzw. 90 kg",
+   "2 Personen bzw. 180 kg",
+   "nur aufgelegte Brückenlast"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "16.25",
+  "s": "Drehleiter",
+  "q": "Warum wird bei der Rettung mit Korb bevorzugt seitlich eindrehend entgegen dem Uhrzeigersinn angeleitert?",
+  "o": [
+   "Damit der Drehleitermaschinist einen besseren Blick auf Ziel und Korb hat",
+   "Weil dies die einzige normgerechte Anfahrtsrichtung ist",
+   "Weil dadurch die Rüstzeit verkürzt wird",
+   "Weil so die Ausladung automatisch vergrößert wird"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "17.1",
+  "s": "Staatsbürgerkunde",
+  "q": "Was versteht man allgemein unter Gewalt?",
+  "o": [
+   "Ausschließlich physischer Zwang gegenüber Menschen",
+   "Einsatz von physischem oder psychischem Zwang gegenüber Menschen sowie physische Einwirkung auf Tiere oder Sachen",
+   "Nur staatlich legitimierte Machtausübung",
+   "Ausschließlich psychischer Druck ohne physische Komponente"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "17.2",
+  "s": "Staatsbürgerkunde",
+  "q": "Welche drei Aspekte umfasst der soziologische Gewaltbegriff (Einsatz physischer oder psychischer Mittel gegen den Willen einer anderen Person)?",
+  "o": [
+   "Schaden zufügen, den eigenen Willen aufzwingen (beherrschen) und der Gewalt mit Gegen-Gewalt begegnen",
+   "Nur Schaden zufügen",
+   "Nur die Unterwerfung des fremden Willens",
+   "Ausschließlich Selbstverteidigung gegen Angriffe"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "17.3",
+  "s": "Staatsbürgerkunde",
+  "q": "Wie definierte Max Weber den Begriff 'Macht'?",
+  "o": [
+   "Als die Chance, für einen Befehl bestimmten Inhalts Gehorsam zu finden",
+   "Als die Möglichkeit, ohne Zustimmung die eigenen Ziele durchzusetzen",
+   "Als die gesetzlich verankerte Ausübung von Staatsgewalt",
+   "Als die Fähigkeit, Gesetze zu erlassen"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "17.4",
+  "s": "Staatsbürgerkunde",
+  "q": "Wie definierte Max Weber den Begriff 'Herrschaft'?",
+  "o": [
+   "Als die Möglichkeit, ohne Zustimmung eigene Ziele durchzusetzen",
+   "Als die Chance, für einen Befehl bestimmten Inhalts bei bestimmten Personen Gehorsam zu finden",
+   "Als die alleinige Kontrolle über das staatliche Gewaltmonopol",
+   "Als die Fähigkeit zur physischen Einwirkung auf Sachen"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "17.5",
+  "s": "Staatsbürgerkunde",
+  "q": "Wie ist Staatsgewalt im politischen Sinne definiert?",
+  "o": [
+   "Als legitim angewandtes Mittel zur Durchsetzung der herrschenden Rechtsordnung",
+   "Als ausschließlich physische Gewaltanwendung ohne rechtliche Grundlage",
+   "Als Synonym für die Legislative",
+   "Als Gewalt, die nur vom Bundespräsidenten ausgeübt wird"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "17.6",
+  "s": "Staatsbürgerkunde",
+  "q": "Was bezeichnet man als 'Gebietshoheit' eines Staates?",
+  "o": [
+   "Die Herrschaftsmacht über ein bestimmtes Gebiet",
+   "Die Zuständigkeit für alle Staatsangehörigen unabhängig vom Aufenthaltsort",
+   "Das Recht zur Gesetzgebung im Ausland",
+   "Die Kontrolle über die Bundeswehr"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "17.7",
+  "s": "Staatsbürgerkunde",
+  "q": "Was bezeichnet man als 'Personalhoheit' eines Staates?",
+  "o": [
+   "Die Herrschaftsmacht über ein Gebiet",
+   "Die Zuständigkeit des Staates für alle seine Angehörigen",
+   "Das Recht zur Gebietsänderung",
+   "Die Kontrolle der Gerichte"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "17.8",
+  "s": "Staatsbürgerkunde",
+  "q": "Welche drei Gewalten bilden nach dem Prinzip der Gewaltenteilung den Staat?",
+  "o": [
+   "Exekutive, Legislative und Judikative",
+   "Bund, Länder und Kommunen",
+   "Regierung, Parlament und Bevölkerung",
+   "Bundestag, Bundesrat und Bundesversammlung"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "17.9",
+  "s": "Staatsbürgerkunde",
+  "q": "Welches Verfassungsorgan verkörpert die Exekutive?",
+  "o": [
+   "Bundesverfassungsgericht",
+   "Bundestag",
+   "Regierung/Verwaltung",
+   "Bundesrat"
+  ],
+  "c": [
+   2
+  ]
+ },
+ {
+  "n": "17.10",
+  "s": "Staatsbürgerkunde",
+  "q": "Welches Verfassungsorgan verkörpert die Legislative?",
+  "o": [
+   "Bundestag (Parlament)",
+   "Bundesregierung",
+   "Bundesverfassungsgericht",
+   "Bundespräsident"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "17.11",
+  "s": "Staatsbürgerkunde",
+  "q": "Welches Verfassungsorgan verkörpert die Judikative?",
+  "o": [
+   "Bundesrat",
+   "Bundesverfassungsgericht/Gerichte",
+   "Bundestag",
+   "Bundesregierung"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "17.12",
+  "s": "Staatsbürgerkunde",
+  "q": "Welche Verfassungsorgane zählen zu den ständigen Verfassungsorganen?",
+  "o": [
+   "Bundespräsident, Bundestag, Bundesrat, Bundesregierung und Bundesverfassungsgericht",
+   "Bundesversammlung und Gemeinsamer Ausschuss",
+   "Nur Bundestag und Bundesrat",
+   "Bundeskanzleramt und Bundesministerien"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "17.13",
+  "s": "Staatsbürgerkunde",
+  "q": "Welche Verfassungsorgane zählen zu den NICHT ständigen Verfassungsorganen?",
+  "o": [
+   "Bundestag und Bundesrat",
+   "Bundesversammlung und Gemeinsamer Ausschuss",
+   "Bundesregierung und Bundesverfassungsgericht",
+   "Bundespräsident und Bundeskanzler"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "17.14",
+  "s": "Staatsbürgerkunde",
+  "q": "Wie lange beträgt die Amtszeit des Bundespräsidenten und wie oft ist eine Wiederwahl möglich?",
+  "o": [
+   "4 Jahre, beliebig oft wiederwählbar",
+   "5 Jahre, einmalige Wiederwahl möglich",
+   "6 Jahre, keine Wiederwahl möglich",
+   "5 Jahre, beliebig oft wiederwählbar"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "17.15",
+  "s": "Staatsbürgerkunde",
+  "q": "Welche der folgenden Aufgaben gehört NICHT zu den Aufgaben des Bundespräsidenten?",
+  "o": [
+   "Vorschlag, Ernennung und Entlassung des Bundeskanzlers",
+   "Begnadigungsrecht",
+   "Wahl der Richter des Bundesverfassungsgerichts durch Bundestag und Bundesrat",
+   "Ernennung und Entlassung der Bundesminister"
+  ],
+  "c": [
+   2
+  ]
+ },
+ {
+  "n": "17.16",
+  "s": "Staatsbürgerkunde",
+  "q": "Was versteht man unter der 'politischen Reservefunktion' des Bundespräsidenten?",
+  "o": [
+   "Seine reguläre Zuständigkeit für die Außenpolitik",
+   "Sein Eingreifen bei fehlender parlamentarischer Mehrheit bzw. bei der Vertrauensfrage",
+   "Seine Rolle als ständiger Vorsitzender des Bundestages",
+   "Sein Vetorecht gegen alle Bundesgesetze"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "17.17",
+  "s": "Staatsbürgerkunde",
+  "q": "Wie lange beträgt die Amtszeit eines Bundestagsabgeordneten und welche Aufgabe kann der Bundestag gegenüber der Regierung mit einem konstruktiven Misstrauensvotum wahrnehmen?",
+  "o": [
+   "4 Jahre, Wiederwahl möglich; er kann damit den Bundeskanzler stürzen und zugleich einen Nachfolger wählen",
+   "5 Jahre, keine Wiederwahl; er kann den Bundespräsidenten absetzen",
+   "2 Jahre, Wiederwahl möglich; er kann den Bundesrat auflösen",
+   "6 Jahre, keine Wiederwahl; er kann das Grundgesetz ändern"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "17.18",
+  "s": "Staatsbürgerkunde",
+  "q": "Wie kommen Bundesgesetze laut den Verfassungsorganen zustande?",
+  "o": [
+   "Sie werden ausschließlich vom Bundesrat beschlossen",
+   "Sie werden unter Beteiligung des Bundesrates vom Bundestag beschlossen",
+   "Sie werden vom Bundespräsidenten allein erlassen",
+   "Sie werden von der Bundesregierung ohne Parlament erlassen"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "17.19",
+  "s": "Staatsbürgerkunde",
+  "q": "Wie setzt sich der Bundesrat zusammen und worüber entscheidet er als Gesetzgebungsorgan?",
+  "o": [
+   "Aus direkt vom Volk gewählten Abgeordneten; er entscheidet nur über den Bundeshaushalt",
+   "Aus Mitgliedern, die aus den 16 Bundesländern entsandt werden; er entscheidet u.a. über Gesetzesentwürfe, Rechtsverordnungen, allgemeine Verwaltungsvorschriften und EU-Vorlagen",
+   "Aus ernannten Bundesrichtern; er entscheidet nur über Verfassungsbeschwerden",
+   "Aus Vertretern der Kommunen; er entscheidet über Kommunalwahlen"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "17.20",
+  "s": "Staatsbürgerkunde",
+  "q": "Woraus setzt sich die Bundesregierung zusammen, wie wird diese Gesamtheit bezeichnet und für welche Dauer wird sie in der Regel gewählt?",
+  "o": [
+   "Bundeskanzler und Bundesminister bilden zusammen das Bundeskabinett; Amtsdauer 4 Jahre, vorzeitige Neuwahlen möglich",
+   "Bundespräsident und Bundeskanzler bilden die Exekutivspitze; Amtsdauer 6 Jahre",
+   "Bundestag und Bundesrat bilden das Regierungsorgan; Amtsdauer 5 Jahre",
+   "Nur der Bundeskanzler allein; unbegrenzte Amtsdauer"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "17.21",
+  "s": "Staatsbürgerkunde",
+  "q": "Welche Funktion hat das Bundesverfassungsgericht innerhalb der Gewaltenteilung?",
+  "o": [
+   "Es ist Teil der Judikative, jedoch nicht Bestandteil des normalen Instanzenzuges und wird nicht von sich aus tätig, sondern muss angerufen werden",
+   "Es ist Teil der Exekutive und leitet die Bundesverwaltung",
+   "Es ist Teil der Legislative und erlässt eigenständig Gesetze",
+   "Es untersteht direkt dem Bundeskanzler"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "17.22",
+  "s": "Staatsbürgerkunde",
+  "q": "Wie werden die Richter des Bundesverfassungsgerichts bestimmt und wie lange ist ihre maximale Amtszeit?",
+  "o": [
+   "Vom Bundespräsidenten ernannt, Amtszeit unbegrenzt",
+   "Bundestag und Bundesrat wählen jeweils 8 Richter, maximale Amtszeit 12 Jahre bzw. vorzeitiges Ausscheiden mit 68 Jahren",
+   "Vom Bundeskanzler ernannt, Amtszeit 6 Jahre",
+   "Direkt vom Volk gewählt, Amtszeit 10 Jahre"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "17.23",
+  "s": "Staatsbürgerkunde",
+  "q": "Woraus setzt sich die Bundesversammlung zusammen und welche Aufgabe hat sie?",
+  "o": [
+   "Aus Länderministern; sie wählt den Bundeskanzler",
+   "Aus allen Bundestagsabgeordneten und einer gleich großen Zahl von den Landtagen gewählter Vertreter; sie wählt den Bundespräsidenten",
+   "Aus Bundesrichtern; sie kontrolliert Gesetze",
+   "Aus Bürgermeistern; sie beschließt den Bundeshaushalt"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "17.24",
+  "s": "Staatsbürgerkunde",
+  "q": "Unter welcher Voraussetzung tritt der Gemeinsame Ausschuss als 'Notparlament' in Funktion, wie setzt er sich zusammen und welche Grenze hat er?",
+  "o": [
+   "Wenn dem rechtzeitigen Zusammentritt des Bundestages unüberwindbare Hindernisse entgegenstehen oder dieser nicht beschlussfähig ist; er besteht aus 48 Mitgliedern (2/3 des Bundestages und 16 Gesandte der Länder) und darf keine Grundgesetze ändern oder außer Kraft setzen",
+   "Bei jeder regulären Bundestagswahl; er besteht aus 16 Ministerpräsidenten und kann das Grundgesetz ändern",
+   "Wenn der Bundespräsident zurücktritt; er besteht aus allen Bundesministern",
+   "Wenn der Bundesrat aufgelöst wird; er besteht aus 32 Bundestagsabgeordneten"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "18.1",
+  "s": "Vorbeugender Brandschutz",
+  "q": "Welche Ziele verfolgt der vorbeugende Brandschutz gemäß §17 BauO?",
+  "o": [
+   "Ausschließlich die Verhinderung von Sachschäden",
+   "Bauliche Anlagen müssen der Entstehung und Ausbreitung von Feuer und Rauch vorbeugen, die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten ermöglichen",
+   "Nur die Ermöglichung wirksamer Löscharbeiten",
+   "Ausschließlich der Schutz vor Rauchausbreitung"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "18.2",
+  "s": "Vorbeugender Brandschutz",
+  "q": "Welche drei Säulen bilden den Brandschutz?",
+  "o": [
+   "Organisatorischer, anlagentechnischer und baulicher Brandschutz",
+   "Technischer, personeller und finanzieller Brandschutz",
+   "Präventiver, reaktiver und nachsorgender Brandschutz",
+   "Aktiver, passiver und mobiler Brandschutz"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "18.3",
+  "s": "Vorbeugender Brandschutz",
+  "q": "Welche Merkmale hat ein Hydrant vom Typ S?",
+  "o": [
+   "Dient der Feuerwehr, Anschluss über C-Schlauch, 100 l/min bei 3 bar an 3 Entnahmestellen",
+   "Dient der Selbsthilfe, formstabiler Druckschlauch mit 30m Länge, 24 l/min bei 2 bar an 2 Entnahmestellen",
+   "Nur für Löschwasserbrunnen geeignet",
+   "Liefert 200 l/min bei 5 bar"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "18.4",
+  "s": "Vorbeugender Brandschutz",
+  "q": "Welche Merkmale hat ein Hydrant vom Typ F?",
+  "o": [
+   "Dient der Selbsthilfe mit 30m Druckschlauch",
+   "Dient der Feuerwehr, formstabiler Schlauch oder C-Schlauch, 100 l/min bei 3 bar an 3 Entnahmestellen",
+   "Liefert nur 24 l/min bei 2 bar",
+   "Ist ausschließlich als Überflurhydrant verfügbar"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "18.5",
+  "s": "Vorbeugender Brandschutz",
+  "q": "Wie berechnet sich die Wasserlieferung eines Unterflurhydranten aus der Nennweite?",
+  "o": [
+   "Nennweite x 10 = Wasserlieferung in l/min",
+   "Nennweite x 15 = Wasserlieferung in l/min",
+   "Nennweite x 5 = Wasserlieferung in l/min",
+   "Nennweite x 20 = Wasserlieferung in l/min"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "18.6",
+  "s": "Vorbeugender Brandschutz",
+  "q": "Wie berechnet sich die Wasserlieferung eines Überflurhydranten aus der Nennweite?",
+  "o": [
+   "Nennweite x 10 = Wasserlieferung in l/min",
+   "Nennweite x 15 = Wasserlieferung in l/min",
+   "Nennweite x 8 = Wasserlieferung in l/min",
+   "Nennweite x 12 = Wasserlieferung in l/min"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "18.7",
+  "s": "Vorbeugender Brandschutz",
+  "q": "Welche Mindestmaße (Breite x Höhe) müssen Zufahrten für die Feuerwehr aufweisen?",
+  "o": [
+   "3m x 3,5m",
+   "2,5m x 3m",
+   "3,5m x 4m",
+   "4m x 4,5m"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "18.8",
+  "s": "Vorbeugender Brandschutz",
+  "q": "Welche Maße müssen Aufstellflächen für Drehleitern haben?",
+  "o": [
+   "4 x 8m",
+   "5,5 x 11m",
+   "7 x 12m",
+   "6 x 10m"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "18.9",
+  "s": "Vorbeugender Brandschutz",
+  "q": "Welche Maße hat der Arbeitsbereich für eine Löschgruppe?",
+  "o": [
+   "5,5 x 11m",
+   "3 x 3,5m",
+   "7 x 12m",
+   "4 x 6m"
+  ],
+  "c": [
+   2
+  ]
+ },
+ {
+  "n": "18.10",
+  "s": "Vorbeugender Brandschutz",
+  "q": "Wie ist Gebäudeklasse 1 definiert?",
+  "o": [
+   "Freistehende Gebäude bis max. 7m Höhe und max. 400qm",
+   "Nicht freistehende Gebäude bis 7m Höhe",
+   "Gebäude bis 13m Höhe und max. 400qm",
+   "Sonstige Gebäude bis 22m OKF"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "18.11",
+  "s": "Vorbeugender Brandschutz",
+  "q": "Wie ist Gebäudeklasse 4 definiert?",
+  "o": [
+   "Freistehend, max. 7m Höhe",
+   "Alle übrigen Gebäude bis 7m Höhe",
+   "Max. 13m Höhe und max. 400qm",
+   "Sonstige Gebäude bis 22m OKF"
+  ],
+  "c": [
+   2
+  ]
+ },
+ {
+  "n": "18.12",
+  "s": "Vorbeugender Brandschutz",
+  "q": "Wie ist Gebäudeklasse 5 definiert?",
+  "o": [
+   "Freistehend, max. 7m/400qm",
+   "Nicht freistehend, max. 7m/400qm",
+   "Max. 13m/400qm",
+   "Sonstige Gebäude bis 22m Oberkante Fertigfußboden (OKF)"
+  ],
+  "c": [
+   3
+  ]
+ },
+ {
+  "n": "18.13",
+  "s": "Vorbeugender Brandschutz",
+  "q": "Was unterscheidet die Baustoffklassen A1 und A2?",
+  "o": [
+   "A1 ist nicht brennbar ohne brennbare Bestandteile, A2 ist nicht brennbar mit brennbaren Bestandteilen",
+   "A1 ist schwerentflammbar, A2 ist normalentflammbar",
+   "A1 und A2 sind identisch definiert",
+   "A1 ist leichtentflammbar, A2 ist nicht brennbar"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "18.14",
+  "s": "Vorbeugender Brandschutz",
+  "q": "Wie werden die Baustoffklassen B1 bis B3 bezeichnet?",
+  "o": [
+   "B1 schwerentflammbar, B2 normalentflammbar, B3 leichtentflammbar",
+   "B1 nicht brennbar, B2 schwerentflammbar, B3 normalentflammbar",
+   "B1 leichtentflammbar, B2 normalentflammbar, B3 schwerentflammbar",
+   "B1 normalentflammbar, B2 leichtentflammbar, B3 schwerentflammbar"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "18.15",
+  "s": "Vorbeugender Brandschutz",
+  "q": "Welche Arten von Rauchmeldern werden unterschieden?",
+  "o": [
+   "Streulicht-, Durchlicht-, Ionisations- und Infrarotmelder",
+   "Wärmemaximal- und Wärmedifferenzmelder",
+   "UV- und Infrarotmelder",
+   "Nur Streulichtmelder"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "18.16",
+  "s": "Vorbeugender Brandschutz",
+  "q": "Welche Arten von Flammenmeldern gibt es?",
+  "o": [
+   "Streulicht- und Durchlichtmelder",
+   "UV-Melder, Infrarotmelder und IR-Melder mit Flackerfrequenz",
+   "Wärmemaximalmelder und Wärmedifferenzmelder",
+   "Ionisationsmelder"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "18.17",
+  "s": "Vorbeugender Brandschutz",
+  "q": "Welche Arten von Wärmemeldern werden unterschieden?",
+  "o": [
+   "Wärmemaximalmelder und Wärmedifferenzmelder",
+   "UV- und Infrarotmelder",
+   "Streulicht- und Durchlichtmelder",
+   "Ionisationsmelder"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "18.18",
+  "s": "Vorbeugender Brandschutz",
+  "q": "Welche Arten von Wasserlöschanlagen gibt es?",
+  "o": [
+   "Sprinkler-, Sprühwasser-, Wasservernebelungsanlagen und Regenvorhänge",
+   "Nur CO2-Löschanlagen",
+   "Nur Schaumlöschanlagen",
+   "Nur Pulverlöschanlagen"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "18.19",
+  "s": "Vorbeugender Brandschutz",
+  "q": "Welche Gase werden typischerweise bei Gaslöschanlagen eingesetzt?",
+  "o": [
+   "CO2, Argon und Stickstoff",
+   "Sauerstoff und Wasserstoff",
+   "Nur Stickstoff",
+   "Acetylen und Propan"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "18.20",
+  "s": "Vorbeugender Brandschutz",
+  "q": "Welche Feuerwiderstandsklassen gibt es und was bedeuten F30 sowie F120?",
+  "o": [
+   "F30 feuerhemmend, F120 hochfeuerbeständig",
+   "F30 feuerbeständig, F120 feuerhemmend",
+   "F30 hochfeuerhemmend, F120 höchstfeuerbeständig",
+   "F30 nicht brennbar, F120 schwerentflammbar"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "10.18",
+  "s": "Wissenschaftliche Grundlagen",
+  "q": "Welche SI-Einheit wird für die Temperatur verwendet?",
+  "o": [
+   "Kelvin",
+   "Celsius",
+   "Fahrenheit",
+   "Joule"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "10.19",
+  "s": "Wissenschaftliche Grundlagen",
+  "q": "Welchen Wert repräsentiert das SI-Präfix 'Giga'?",
+  "o": [
+   "10^9",
+   "10^6",
+   "10^3",
+   "10^-3"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "10.20",
+  "s": "Wissenschaftliche Grundlagen",
+  "q": "Welche Formel beschreibt den Zusammenhang von Druck und Temperatur in Gasflaschen (bei konstantem Volumen)?",
+  "o": [
+   "P1/T1 = P2/T2",
+   "P1 x T1 = P2 x T2",
+   "P1 - T1 = P2 - T2",
+   "P1 + T1 = P2 + T2"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "10.21",
+  "s": "Wissenschaftliche Grundlagen",
+  "q": "Wie lautet das Hebelgesetz?",
+  "o": [
+   "Lastarm x Last = Kraftarm x Kraft",
+   "Lastarm + Last = Kraftarm + Kraft",
+   "Lastarm / Last = Kraftarm / Kraft",
+   "Lastarm x Kraftarm = Last x Kraft"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "10.22",
+  "s": "Wissenschaftliche Grundlagen",
+  "q": "Wie lautet die physikalische Formel für die Kraft?",
+  "o": [
+   "Kraft = Masse x Beschleunigung",
+   "Kraft = Masse / Beschleunigung",
+   "Kraft = Masse x Weg",
+   "Kraft = Masse / Zeit"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "10.23",
+  "s": "Wissenschaftliche Grundlagen",
+  "q": "Bei welcher Temperatur liegt der absolute Nullpunkt?",
+  "o": [
+   "-273,15°C = 0K",
+   "0°C = 0K",
+   "-100°C = 0K",
+   "-200°C = 0K"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "10.24",
+  "s": "Wissenschaftliche Grundlagen",
+  "q": "Wie viel Pascal entsprechen 1 bar?",
+  "o": [
+   "100.000 Pascal",
+   "1.000 Pascal",
+   "10.000 Pascal",
+   "1.000.000 Pascal"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "10.25",
+  "s": "Wissenschaftliche Grundlagen",
+  "q": "Um wie viel dehnt sich Stahl bei einer Erwärmung um 100 Kelvin je Meter Länge aus?",
+  "o": [
+   "1,2 mm",
+   "0,5 mm",
+   "2,4 mm",
+   "5 mm"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "10.26",
+  "s": "Wissenschaftliche Grundlagen",
+  "q": "Welche Reibungsarten werden unterschieden?",
+  "o": [
+   "Haftreibung, Gleitreibung, Rollreibung",
+   "Nur Haftreibung",
+   "Statische und dynamische Reibung",
+   "Innere und äußere Reibung"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "10.27",
+  "s": "Wissenschaftliche Grundlagen",
+  "q": "Wie viel Energie ist nötig, um 1 kg Wasser vollständig in Wasserdampf zu überführen (Verdampfungswärme)?",
+  "o": [
+   "2257 kJ",
+   "336 kJ",
+   "4,2 kJ",
+   "2,1 kJ"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "10.28",
+  "s": "Wissenschaftliche Grundlagen",
+  "q": "Wofür steht die Gefahrnummer 'X' bei der Kennzeichnung von Gefahrgütern?",
+  "o": [
+   "Gefährliche Reaktion mit Wasser",
+   "Keine weitere Gefahr",
+   "Radioaktivität",
+   "Ätzwirkung"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "10.29",
+  "s": "Wissenschaftliche Grundlagen",
+  "q": "Welche Farbe steht beim Gefahrendiamant für die Gesundheitsgefahr?",
+  "o": [
+   "Blau",
+   "Rot",
+   "Gelb",
+   "Weiß"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "11.11",
+  "s": "BHKG",
+  "q": "Welche Paragraphen des BHKG regeln den vorbeugenden Brandschutz (u.a. Brandschutzdienststelle, Verhütungsschau, Sicherheitswacht)?",
+  "o": [
+   "§25-27",
+   "§1-6",
+   "§28-40",
+   "§50-52"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "11.12",
+  "s": "BHKG",
+  "q": "Welche Paragraphen des BHKG regeln die Rechte und Pflichten der Bevölkerung?",
+  "o": [
+   "§41-49",
+   "§7-17",
+   "§25-27",
+   "§50-52"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "11.13",
+  "s": "BHKG",
+  "q": "Welches Grundrecht wird laut §48 BHKG u.a. berührt, wenn es um das Betreten von Wohnungen geht?",
+  "o": [
+   "Unverletzlichkeit der Wohnung (GG Art. 13)",
+   "Versammlungsfreiheit (GG Art. 8)",
+   "Meinungsfreiheit (GG Art. 5)",
+   "Berufsfreiheit (GG Art. 12)"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "11.14",
+  "s": "BHKG",
+  "q": "Auf welchem Grundgesetzartikel beruht das Recht auf informationelle Selbstbestimmung, das durch §48 BHKG eingeschränkt werden kann?",
+  "o": [
+   "GG Art. 2 Abs. 1",
+   "GG Art. 2 Abs. 2",
+   "GG Art. 13",
+   "GG Art. 1"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "11.15",
+  "s": "BHKG",
+  "q": "Welche DGUV-Vorschrift regelt die Unfallverhütung bei den Feuerwehren?",
+  "o": [
+   "DGUV Vorschrift 49 'Feuerwehren'",
+   "DGUV Vorschrift 1",
+   "DGUV Vorschrift 68",
+   "DGUV Vorschrift 12"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "11.16",
+  "s": "BHKG",
+  "q": "Welche Arten öffentlicher Feuerwehren werden unterschieden?",
+  "o": [
+   "Berufsfeuerwehr, Freiwillige Feuerwehr, Pflichtfeuerwehr",
+   "Werkfeuerwehr und Betriebsfeuerwehr",
+   "Nur Berufsfeuerwehr",
+   "Freiwillige Feuerwehr und Werkfeuerwehr"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "11.17",
+  "s": "BHKG",
+  "q": "Welche Arten nicht-öffentlicher Feuerwehren werden unterschieden?",
+  "o": [
+   "Werkfeuerwehr und Betriebsfeuerwehr",
+   "Berufsfeuerwehr und Pflichtfeuerwehr",
+   "Nur Pflichtfeuerwehr",
+   "Freiwillige Feuerwehr"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "11.18",
+  "s": "BHKG",
+  "q": "Welche Paragraphen des BHKG regeln Maßnahmen bei Schadens- und Großeinsatzlagen?",
+  "o": [
+   "§28-40",
+   "§41-49",
+   "§50-52",
+   "§7-17"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "11.19",
+  "s": "BHKG",
+  "q": "Welche Paragraphen des BHKG regeln Ziele, Anwendungsbereich, Aufgaben und Träger?",
+  "o": [
+   "§1-6",
+   "§7-17",
+   "§25-27",
+   "§50-52"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "11.20",
+  "s": "BHKG",
+  "q": "Welche Paragraphen des BHKG regeln die Kosten?",
+  "o": [
+   "§50-52",
+   "§1-6",
+   "§28-40",
+   "§41-49"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "8.28",
+  "s": "Fahrzeug- & Gerätekunde",
+  "q": "Welche fünf Regierungsbezirke gibt es in NRW?",
+  "o": [
+   "Düsseldorf, Köln, Münster, Arnsberg, Detmold",
+   "Düsseldorf, Köln, Bonn, Essen, Dortmund",
+   "Münster, Bielefeld, Aachen, Siegen, Hagen",
+   "Köln, Bonn, Münster, Recklinghausen, Essen"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "8.29",
+  "s": "Fahrzeug- & Gerätekunde",
+  "q": "Welche Dachform kennzeichnet ein Dach, das nur auf einer Seite geneigt ist?",
+  "o": [
+   "Pultdach",
+   "Satteldach",
+   "Walmdach",
+   "Zeltdach"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "8.30",
+  "s": "Fahrzeug- & Gerätekunde",
+  "q": "Welche Dachkonstruktion zeichnet sich durch eine horizontale Ebene ohne wesentliche Neigung aus?",
+  "o": [
+   "Flachdach",
+   "Sparrendach",
+   "Kehlbalkendach",
+   "Pfettendach"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "8.31",
+  "s": "Fahrzeug- & Gerätekunde",
+  "q": "Welche Kunststoffgruppen werden unterschieden?",
+  "o": [
+   "Thermoplaste, Duroplaste, Elastomere",
+   "Nur Thermoplaste",
+   "Polymere und Monomere",
+   "Harte und weiche Kunststoffe"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "8.32",
+  "s": "Fahrzeug- & Gerätekunde",
+  "q": "Welcher Unterdruck muss bei der Trockensaugprobe (FPN) innerhalb von 30 Sekunden erreicht werden?",
+  "o": [
+   "-0,8 bar",
+   "+0,1 bar",
+   "0 bar",
+   "-2 bar"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "8.33",
+  "s": "Fahrzeug- & Gerätekunde",
+  "q": "In welchem Bereich liegt der maximale Druck bei der Schließdruckprüfung von Feuerlöschkreiselpumpen?",
+  "o": [
+   "10-17 bar",
+   "1-5 bar",
+   "20-30 bar",
+   "5-8 bar"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "8.34",
+  "s": "Fahrzeug- & Gerätekunde",
+  "q": "Welche Durchmesser haben die Feuerwehrschläuche der Kupplungsgröße B und C?",
+  "o": [
+   "B 75mm, C 42-52mm",
+   "B 110mm, C 75mm",
+   "B 52mm, C 25mm",
+   "B 42mm, C 75mm"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "8.35",
+  "s": "Fahrzeug- & Gerätekunde",
+  "q": "Welche Kupplungsarten werden bei Feuerwehrschläuchen unterschieden?",
+  "o": [
+   "Druck-, Saug-, Fest- und Blindkupplung",
+   "Nur Druckkupplung",
+   "Schnell- und Langsamkupplung",
+   "Steck- und Schraubkupplung"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "8.36",
+  "s": "Fahrzeug- & Gerätekunde",
+  "q": "Welche Länge und welchen Betriebsdruck haben typische Hydraulikschläuche bei der Feuerwehr?",
+  "o": [
+   "20m Länge, 700 bar",
+   "10m Länge, 300 bar",
+   "50m Länge, 1000 bar",
+   "5m Länge, 100 bar"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "8.37",
+  "s": "Fahrzeug- & Gerätekunde",
+  "q": "Welche Fahrzeug-Masseklassen werden bei der Feuerwehr unterschieden?",
+  "o": [
+   "Leicht (L) 3-7,5t, Mittel (M) 7,5-16t, Super (S) >16t",
+   "Klein, Mittel, Groß",
+   "PKW, LKW, Sonderfahrzeug",
+   "Leicht, Schwer"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "8.38",
+  "s": "Fahrzeug- & Gerätekunde",
+  "q": "Welche Absuchtechnik wird bei der Menschenrettung für Räume bis 25qm angewendet?",
+  "o": [
+   "Wandtechnik",
+   "Tauchtechnik",
+   "Baumtechnik",
+   "Spiraltechnik"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "8.39",
+  "s": "Fahrzeug- & Gerätekunde",
+  "q": "Welche Absuchtechnik wird bei der Menschenrettung für Räume über 400qm angewendet?",
+  "o": [
+   "Baumtechnik",
+   "Wandtechnik",
+   "Tauchtechnik",
+   "Kreistechnik"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "1.24",
+  "s": "FwDV 1",
+  "q": "Welcher Sicherheitsabstand ist beim Einsatz von Zugeinrichtungen zu einem unter Last stehenden Seil mindestens einzuhalten?",
+  "o": [
+   "Eine Seillänge",
+   "Ein Meter",
+   "Der doppelte Lastdurchmesser",
+   "Zwei Meter",
+   "Fünf Meter, unabhängig von der Seillänge"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "1.25",
+  "s": "FwDV 1",
+  "q": "Zu welchem Anteil darf ein Hebekissen laut Sicherheitsregeln höchstens unter die zu hebende Last geschoben werden?",
+  "o": [
+   "Zu 100 %",
+   "Zu 75 %",
+   "Zu 50 %",
+   "Zu 25 %",
+   "Es gibt keine Begrenzung, solange die Last stabil aufliegt"
+  ],
+  "c": [
+   2
+  ]
+ },
+ {
+  "n": "4.15",
+  "s": "FwDV 10 · Leitern",
+  "q": "Welcher Anstellwinkel sollte beim Aufstellen tragbarer Leitern eingehalten werden?",
+  "o": [
+   "30°–40°",
+   "45°–55°",
+   "65°–75°",
+   "80°–90°",
+   "Der Winkel ist beliebig, solange die Leiter sicher steht"
+  ],
+  "c": [
+   2
+  ]
+ },
+ {
+  "n": "4.16",
+  "s": "FwDV 10 · Leitern",
+  "q": "Wovon hängt die maximal zulässige Personenbelastung von Steck- und Schiebleitern grundsätzlich ab?",
+  "o": [
+   "Sie ist bei allen tragbaren Leitern unabhängig von der Rettungshöhe identisch",
+   "Von der Rettungshöhe und den Angaben des Herstellers",
+   "Ausschließlich vom Körpergewicht der schwersten eingesetzten Person",
+   "Von der Tageszeit des Einsatzes",
+   "Von der Anzahl der am Einsatz beteiligten Trupps"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "5.44",
+  "s": "FwDV 500 · Gefahrstoffe",
+  "q": "Wie lange ist die Dokumentation für eine kontaminierte Einsatzkraft im BC-Einsatz grundsätzlich mindestens aufzubewahren?",
+  "o": [
+   "10 Jahre",
+   "20 Jahre",
+   "30 Jahre",
+   "40 Jahre",
+   "Es besteht keine Aufbewahrungspflicht"
+  ],
+  "c": [
+   3
+  ]
+ },
+ {
+  "n": "5.45",
+  "s": "FwDV 500 · Gefahrstoffe",
+  "q": "Wie lange ist die Dokumentation für eine kontaminierte Einsatzkraft im A-Einsatz (radioaktive Stoffe) grundsätzlich aufzubewahren?",
+  "o": [
+   "10 Jahre pauschal",
+   "30 Jahre oder bis zum 75. Lebensjahr",
+   "5 Jahre oder bis zum 60. Lebensjahr",
+   "Lebenslang ohne festgelegte Frist",
+   "Nur bis zum Ende des laufenden Kalenderjahres"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "5.46",
+  "s": "FwDV 500 · Gefahrstoffe",
+  "q": "Mit wie vielen atemschutztauglichen Einsatzkräften ist ein Trupp unter Chemikalienschutzanzug (CSA) mindestens auszustatten?",
+  "o": [
+   "Zwei",
+   "Drei",
+   "Vier",
+   "Fünf",
+   "Sechs"
+  ],
+  "c": [
+   2
+  ]
+ },
+ {
+  "n": "6.8",
+  "s": "FwDV 810 · Sprechfunk",
+  "q": "Was ist die Aufgabe eines DMO-Gateways im BOS-Digitalfunk (TETRA)?",
+  "o": [
+   "Es vergrößert ausschließlich die Sendeleistung des Handsprechfunkgerätes",
+   "Es verbindet den Direktmodus (DMO) mit dem Netzmodus (TMO) und ermöglicht so den Zugriff auf das Funknetz",
+   "Es dient ausschließlich der Verschlüsselung von Gesprächen",
+   "Es ersetzt bei einem Netzausfall vollständig die Leitstelle",
+   "Es filtert Störgeräusche aus dem Funkverkehr"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "7.82",
+  "s": "Einsatz- & Löschlehre",
+  "q": "Wie sollte bei einem größeren Brand mit mehreren eingesetzten ABC-Pulverlöschern vorgegangen werden?",
+  "o": [
+   "Nacheinander, um Löschpulver zu sparen",
+   "Gleichzeitig, um eine ausreichende Löschwirkung zu erzielen",
+   "Nur mit einem Löscher, die übrigen bleiben grundsätzlich in Reserve",
+   "Abwechselnd im Minutentakt",
+   "Erst nachdem der erste Löscher vollständig entleert wurde"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "7.83",
+  "s": "Einsatz- & Löschlehre",
+  "q": "Was versteht man unter einer \"Feuerbrücke\" als eine der Möglichkeiten der Brandausbreitung?",
+  "o": [
+   "Eine brennbare Verbindung (z. B. Vorhänge, Kabelkanäle, Dämmstoffe), über die sich ein Brand von einem Bereich zum nächsten ausbreiten kann",
+   "Eine Metallbrücke, die als Angriffsweg für den Löschangriff genutzt wird",
+   "Ein Gerät zur Überbrückung von Schlauchleitungen unterschiedlicher Durchmesser",
+   "Die Kupplungsverbindung zweier C-Rohre",
+   "Ein anderer Begriff für den Vollbrand eines Raumes"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "7.84",
+  "s": "Einsatz- & Löschlehre",
+  "q": "Welcher Mindestabstand ist beim Löschen mit ABC-Pulver in elektrischen Anlagen mit Niederspannung einzuhalten?",
+  "o": [
+   "0,5 Meter",
+   "1 Meter",
+   "3 Meter",
+   "5 Meter",
+   "10 Meter"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "7.85",
+  "s": "Einsatz- & Löschlehre",
+  "q": "Mit welcher Spannung ist bei Fahrleitungen von Bahnanlagen üblicherweise zu rechnen?",
+  "o": [
+   "Niederspannung 230 V",
+   "Hochspannung 1 500 V",
+   "Hochspannung 15 000 V (15 kV)",
+   "Hochspannung 400 V",
+   "Es handelt sich grundsätzlich um ungefährliche Kleinspannung"
+  ],
+  "c": [
+   2
+  ]
+ },
+ {
+  "n": "8.50",
+  "s": "Fahrzeug- & Gerätekunde",
+  "q": "Bis zu welcher Feststoffgröße kann die Tauchpumpe TP 4/1 laut Herstellerangaben Schmutzwasser fördern?",
+  "o": [
+   "Bis 2 mm",
+   "Bis 5 mm",
+   "Bis 8 mm",
+   "Bis 15 mm",
+   "Bis 20 mm"
+  ],
+  "c": [
+   2
+  ]
+ },
+ {
+  "n": "8.51",
+  "s": "Fahrzeug- & Gerätekunde",
+  "q": "Welche Pumpenleistung liefert die Feuerlöschkreiselpumpe einer DLA (K) 23/12 laut Normangabe?",
+  "o": [
+   "1000 l/min bei 8 bar",
+   "1600 l/min bei 10 bar",
+   "2300 l/min bei 12 bar",
+   "3000 l/min bei 15 bar",
+   "800 l/min bei 8 bar"
+  ],
+  "c": [
+   2
+  ]
+ },
+ {
+  "n": "8.52",
+  "s": "Fahrzeug- & Gerätekunde",
+  "q": "Wofür steht der Buchstabe \"K\" in der Fahrzeugbezeichnung DLA (K) 23/12?",
+  "o": [
+   "Für \"Korb\" als fest zur Drehleiter gehörendes Rettungsgerät",
+   "Für die \"Kran\"-Funktion des Hubrettungsfahrzeugs",
+   "Für ein \"Kombi\"-Fahrgestell",
+   "Für die \"Katastrophenschutz\"-Sonderausstattung",
+   "Für den \"Kettenantrieb\" des Fahrgestells"
+  ],
+  "c": [
+   0
+  ]
+ },
+ {
+  "n": "9.6",
+  "s": "Rechtliche Grundlagen",
+  "q": "Welcher Paragraph der Straßenverkehrsordnung (StVO) regelt grundsätzlich die sogenannten \"Sonderrechte\" für Einsatzfahrzeuge der Feuerwehr?",
+  "o": [
+   "§ 1 StVO",
+   "§ 35 StVO",
+   "§ 38 StVO",
+   "§ 49 StVO",
+   "Es gibt hierzu keinen eigenen Paragraphen"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "9.7",
+  "s": "Rechtliche Grundlagen",
+  "q": "Welcher Paragraph der StVO regelt das sogenannte \"Wegerecht\", das mit blauem Blinklicht zusammen mit dem Einsatzhorn angezeigt wird?",
+  "o": [
+   "§ 35 StVO",
+   "§ 38 StVO",
+   "§ 1 StVO",
+   "§ 30 StVO",
+   "§ 45 StVO"
+  ],
+  "c": [
+   1
+  ]
+ },
+ {
+  "n": "10.40",
+  "s": "Wissenschaftliche Grundlagen",
+  "q": "Welche der drei ionisierenden Strahlungsarten (Alpha, Beta, Gamma) hat die größte Reichweite bzw. Durchdringungsfähigkeit in Luft?",
+  "o": [
+   "Alpha-Strahlung",
+   "Beta-Strahlung",
+   "Gamma-Strahlung",
+   "Alle drei haben die gleiche Reichweite",
+   "Keine der drei Strahlungsarten hat eine messbare Reichweite in Luft"
+  ],
+  "c": [
+   2
+  ]
+ },
+ {
+  "n": "10.41",
+  "s": "Wissenschaftliche Grundlagen",
+  "q": "Welche Auswirkung hat der Einsatz einer losen Rolle auf den erforderlichen Zugweg (die zu ziehende Seillänge) im Vergleich zum direkten Ziehen ohne Rolle?",
+  "o": [
+   "Der Zugweg bleibt unverändert",
+   "Der Zugweg halbiert sich",
+   "Der Zugweg verdoppelt sich",
+   "Der Zugweg verdreifacht sich",
+   "Es ist kein Zugweg mehr erforderlich"
+  ],
+  "c": [
+   2
+  ]
+ },
+ {
+  "n": "10.42",
+  "s": "Wissenschaftliche Grundlagen",
+  "q": "Warum kann sich austretendes Kohlenstoffdioxid (CO2) in tiefliegenden Bereichen wie Kellern oder Gruben gefährlich ansammeln?",
+  "o": [
+   "Weil CO2 leichter als Luft ist und nach oben entweicht",
+   "Weil CO2 schwerer als Luft ist und sich in Senken, Kellern und Gruben ansammeln kann",
+   "Weil CO2 mit Luft explosionsfähige Gemische bildet",
+   "Weil CO2 sich chemisch mit Luftsauerstoff verbindet",
+   "Weil CO2 radioaktiv ist"
+  ],
+  "c": [
+   1
+  ]
+ }
+]
